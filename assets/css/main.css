@@ -170,10 +170,6 @@ hr {
   display: block;
 }
 
-#drawer {
-  display: none;
-}
-
 body:has(#drawer-toggle:checked) {
   overflow: hidden;
 }
@@ -192,8 +188,8 @@ body:has(#drawer-toggle:checked) {
   z-index: 100;
   top: 0;
   left: 0;
-  background: #fff;
-  width: 288px;
+  background-color: rgba(243, 244, 246);
+  width: 256px;
   height: 200%;  
   display: flex;
   flex-direction: column;
@@ -202,13 +198,43 @@ body:has(#drawer-toggle:checked) {
   line-height: 1.75rem;  
 }
 
+#drawer {
+  display: none;
+}
+
 #drawer a {
   text-decoration: none;
-  padding-top: 1rem/* 16px */;
-  padding-bottom: 1rem/* 16px */;
-  border-bottom: solid;
-  border-bottom-width: 1px;
-  border-color: rgba(209, 213, 219);
+  padding-top: 0.5rem/* 8px */;
+  padding-bottom: 0.5rem/* 8px */;
+  padding-left: 0.5rem/* 8px */;  
+  font-size: 1.5rem/* 24px */;
+  line-height: 2rem/* 32px */;
+  margin-bottom: 1.25rem;
+}
+
+#drawer a#news {
+  background-color: rgba(255, 255, 255);
+  color: rgba(28, 104, 243);
+  border-radius: 0.375rem;
+}
+
+#drawer p {
+  color: rgba(156, 163, 175);
+  margin: 0;
+  font-size: 1.125rem/* 18px */;
+  line-height: 1.75rem/* 28px */;  
+  margin-bottom: 1.25rem/* 20px */;
+}
+
+#drawer a#downloads {
+  padding-top: 0.25rem/* 4px */;
+  padding-bottom: 0.25rem/* 4px */;
+  padding-left: 0;
+  border-radius: 9999px;
+  width: 10rem;
+  text-align: center;
+  margin-top: 0.8rem;
+  border: 2px solid rgba(17, 24, 39);  
 }
 
 @media (max-width: 850px) {
