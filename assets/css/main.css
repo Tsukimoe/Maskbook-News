@@ -123,7 +123,7 @@ hr {
 }
 
 .masthead-links {
-  width: 40%;
+  width: 66.7%;
   min-width: 450px;
   display: flex;
   align-items: center;
@@ -135,6 +135,12 @@ hr {
   color: rgba(17, 24, 39);
   line-height: 1.75rem;
   font-weight: 300;  
+}
+
+@media (min-width: 1440px) {
+  .masthead-links {
+    width: 40%;
+  }
 }
 
 .masthead-nav-menu {
