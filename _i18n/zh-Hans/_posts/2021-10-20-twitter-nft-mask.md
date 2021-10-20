@@ -14,7 +14,7 @@ description: ''
 image: ''
 
 ---
-{{ site.baseurl_root }}/uploads/nft-avatar-flash.mp4
+[https://youtu.be/0SClmjpqF-A](https://youtu.be/0SClmjpqF-A "https://youtu.be/0SClmjpqF-A")
 
 几周前，Mask Network 上线了 NFT 头像功能，让使用了 NFT 作为头像的玩家可以在 Twitter 上直接认证并显示其 NFT 头像所属的系列、相关价格等信息。在即将发布的 v1.38.0 版本中，NFT 头像功能进行了全新升级，在此前仅认证部分用户现有头像的基础上，添加了**直接在 Twitter 上将头像替换为拥有的 NFT 的功能**。所有安装了 Mask 产品的用户，只要拥有以太坊主网上的 NFT，就可以选择将其更换成为 Twitter 头像，并获得持有 NFT 的认证。
 
