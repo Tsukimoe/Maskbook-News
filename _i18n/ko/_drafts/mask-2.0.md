@@ -1,0 +1,81 @@
+---
+layout: post
+lang: ko
+template: Korean
+date: 2021-11-05
+tags: []
+en: []
+ja: []
+zh-Hans: []
+zh-Hant: []
+title: Mask 2.0, 새로운 오픈 인터넷에 통하는 포털의 업그레이드
+description: ''
+type: ''
+image: ''
+
+---
+**![](https://lh4.googleusercontent.com/pjXnLKw1ScAPgvo5HJlZ5yWI8Zrz9SFUki8hanQ-nAGubDzj6UwBZj4iS42vPkeymaykiwN-AS3Iduj9nVs8X5Av6VyyoMJ7zeBOzcmp0HnaqYnpOfQk3oe0vzq9p74MZzZ3wNx3 =551x310)**
+
+2019년 처음 출시 부터, Mask Network는 데이터 프라이버스 보호와 웹 2.0과 웹 3.0를 연결하는 가장 좋은 브릿지를 맏드기에 힘을 써 왔습니다. 전체 저희 팀은 30 여 개 인기 웹 3.0 dApp가 현존의 웹 2.0 사이드에서 원활하게 운행할 수 있는 생태계를 만들었습니다.
+
+**Mask Network 생태계의 구성은 다음과 같습니다:**
+
+* Ethereum mainnet, Polygon (Matic), BSC, Arbitrum and xDai 등 5개 L1/L2
+* Solana, Flow, Avalanche, Fantom, NEAR, Celo, Zksync, Optimism 등 곧 연결될 다른 L1/L2
+* Uniswap, OpenSea, Arweave, Snapshot 등 DeFi, NFT와 Web 3.0 등 분야에 대한 제3자 dApp
+* 암호화 메시지, 행운 드랍, ITO(Initial Twitter Offering)와 웹 3.0 자산을 전시할 수 있는 NFT 갤러리/아바타 등 Mask Network 팀이 개발한 기능
+* Twitter, Facebook, Minds.com 등 현존 웹 2.0 사이트 통합
+* 곧이어 통합될 Instagram, Reddit와 다른 인기 포럼
+* DeBank, Zerion, CoinMarketCap, CoinGecko, NFTSCAN 등 데이터 재공 서비스
+
+저희의 독특한 접근 방식은 유저들에게 데이터 자율성을 되찾게 하고 사람들에게 정보를 자유롭게 해석하고 구성할 수 있는 권리를 부여하려는 우리의 원대한 비전에서 비롯되었습니다. 따라서 다른 Web 3.0 프로젝트와는 달리, 저희의 접근 방식은 유저들이 익숙한 Web 2.0 사이트에서 어떠한 변경도 가능하게 하는 탈중앙화된 인프라를 구축하고 있다는 점에서 독특합니다. 이것은 Mask dApp 생태계로 불러도 됩니다.
+
+![](https://lh4.googleusercontent.com/clSYhj4t7qvvvd88zLl4058f-wSvjC9mSKR_r9UYkZrHuFdFAI-i2E6kJWlIIMDff3yZd875tAZN6VvvSDW8OWvl172nffzMPYNUJ6ye2yVXfIfOUWolK7JZ6vWY3aqx6HUYAHTo =523x294)
+
+Mask는 아직 부족한 것 있지만 저희의 비전과 목표에 더욱 맞출 수 있게끔 새로운 Mask 2.0을 개발하고 전에 완성하지 못한 기능을 보완하며 개발 과정도 가속화합니다.
+
+* 업그레이드된 **Mask 월렛**은 **멜티 체인** 지원합니다. 데스크톱 버전과 모바일 버전은 다 멜티 체인의 세계에 연결할 수 있습니다.
+* **Mask Identity (MaskID)**는 웹 2.0 계정과 웹 3.0을 통합니다. 이메일 로그인은 지금도 지원합니다.
+* 권한이 없고 보다 체계적인 dApp 시장인 **Mask Labs**는 사용자로부터 보다 쉽게 액세스하고 개발자의 창의성을 높일 수 있도록 지원합니다.
+
+**멜티 체인 Mask 월렛**
+
+**![](https://lh6.googleusercontent.com/soX_bllp3Pd33kRT2wU1ATAd8ucxg8E8O1Eqzs04NkSKc7I5eCwRpTqGqKn2bJRLSCd_P9RMsr9eVobWx7RJ5h92FJ5agnWOa4ZRI5ItrIDBPxCFH_YBYRJ50YWM1k4_VdXccOYa =602x177)**
+
+Mask을 사용할 때 유저들이 보통 MetaMask와 WalletConnect 월렛을 선택합니다. 하지만 Mask 월렛은 비교적 초보적인 것이었습니다. 멜티 체인 세계가 생겨나면서, 원래의 마스크 월렛의 기능은 좀 뒤떨어져서 이 늘어가는 요구에 맞출 수 있는 Mask 월렛은 처음부터 다시 디자인하였다. 새로운 Mask 월렛은 EVM와 호환성이 있는 L1/L2을 지원할뿐만 아니라 다른 체인에 대한 기술 기반도 잘 다졌습니다. 빠르고 편리하는 크로스 체인 브릿지 서버스도 제공합니다.
+
+**Mask 아이디**
+
+**![](https://lh5.googleusercontent.com/OaBrN7vgM2cImAGs3Zg8TywbmtXMZ55sF4E0Ez4ueUfsGFGxehQTom5pffyJsRqzO8tQYFsyn1ciZtLhFxCqLrpdWSW6RJgguotd_hCteGktYkB12-jLsjmliaDt1Tpq510qKNjB =602x156)**
+
+아이덴티티는 데이터가 유저의 것이라는 Mask 데이더 자율성 비전의 핵심 신조이다. 저희는 사용자들이 자신의 아이덴티티를 합치기를 원하는지 결정할 자유가 있어야 한다고 믿습니다.
+
+그렇다면, 저희는 유저에게 모든 아이덴티티 관련 정보를 관리할 수 있는 좋고 쉬운 방법을 제공해야 합니다.
+
+페르소나는 다양한 웹 2.0 사이트의 계정을 통합할 수 있습니다. 다양한 웹 3.0 ID(address/ENS 등)의 연결도 지원합니다. 따라서 Mask는 웹 2.0의 계정과 웹 3.0의 주소를 통합하는 중계 역할을 하는 것을 이미 준비하였습니다.
+
+또한, RSS3와 긴밀히 협력하여 모든 것을 하나의 프로필에 통합하고 시각화할 예정입니다.
+
+이전에는 표준 공개 키 시스템만 사용했으며, 마스크 2.0 업그레이드에서는 사용자 요구에 맞게 이메일 로그인도 추가했습니다.
+
+**dApp 마켓**
+
+마스크의 독특한 형태와 포지셔닝은 모든 웹 2.0 웹사이트에서 기존 및 향후의 소비지 지향형 웹 3.0 dApp 통합을 가능하게 합니다.
+
+저희는 그것들을 DeFi, NFT 및 더 넓은 Web 3.0 기능으로 분류합니다. 아래에서 불완전한 미래 dApp 계획을 보고 100개 이상의 dApp이 포함된 생태계를 쉽게 상상할 수 있습니다. 하지만 이것은 전부가 아닙니다. 우리는 인프라를 구축했고 여러분에게 창조적인 권리를 주고자 합니다.
+
+![](https://lh5.googleusercontent.com/jJCRsmdu5nNcNj2ANr7fPQZt3iBq5jJwXs6AG1KnbsIHOZb55Az9TYGD1Cnf4MpbtdUpN8RXDmblqfbk59wR7SFGHy07H-5bGOX2ocI5DwonJRmD6_pIvNlX8jb2nV6RGG0I2n-f =602x376)
+
+소비자 측면에서, 저희는 소비자가 더 용이하게 접근하기 위해 dApp 마켓의 프런트 엔드를 개선했습니다. 이전에는 앱 수량이 많아지면서 사용자가 다양한 유틸리티의 dApp 중에 해당 것을 찾는 것이 문제가 되어 왔습니다. 이제 업데이트된 프런트 엔드를 통해 앱이 더 잘 분류됩니다. 사용자들은 곧 자기가 가장 좋아하는 앱을 선택하고 순서대로 표시할 수 있을 겁니다.
+
+개발자 측에서는 커뮤니티가 장기 개발에서 항상 최우선 과제이며 앞으로도 그러할 것입니다. 지난 몇 년 동안 저희는 오픈소스 커뮤니티, 특히 Gitcoin으로부터 엄청난 도움을 받았습니다. Mask Network는 Gitcoin에서 30 여 개 상금 이벤트를 발표했습니다. 사용자 경험을 향상시키고, 지원되는 기능을 풍부하게 하고, 보안 수준을 높이며, 더 많은 플랫폼 지원을 추가하기에 관심을 기울이고 있습니다. 그리고 가장 중요하는 것은 유저와 개발자 자신을 도울 수 있도록 보다 좋은 웹을 만들기 위해 더 많은 혁신적인 개발자를 유치하여 Mask의 생태계에 기여하게 하는 것입니다.
+
+보다 완벽한 dApp 마켓을 향한 확장 계획에 따라 저희가 Mask 2.0 내부의 제3자 탈중앙화 애플리케이션(dApp) 마켓인 Mask Labs를 발표합니다.
+
+Mask 2.0 시대에, 저희는 생태계를 구축하고 성장시키는데 계속 집중할 것입니다. 총 10만 달러 $MASK의 첫 번째 지원금에 대한 신청은 Mask 2.0 출시와 함께 공개될 것입니다. 마스크 지원금에 대한 자세한 내용은 곧 발표될 예정입니다.
+
+Mask Network는 또한 현재의 트위터 중심 생태계를 탬색하고 확장시키고 있다. Mask 2.0에서 저희는 프라이버시, 언론 자유, 탈중앙화에 집중하는 커뮤니티 소유의 오픈소스 소셜 네트워크인 Minds.com를 지원합니다.
+
+저희가 또한 Facebook에 대한 기능을 향상시키고 있고 Instagram과 Reddit에 진출할 예정입니다. 다른 세계 범위의 유명한 포럼도 곧이어 웹 3.0 업그레이드에 나올 겁니다. Mask Network에 관심있는 웹 2.0 사이트는 저희와 제휴하기를 환영합니다.
+
+요약하면, Mask 2.0은 Mask Network의 새로운 단계의 시작을 표시합니다. 업그레이드된 인프라로 수십억 명의 사용자가 Web 3.0의 세계에 들어갈 수 있기를 바랍니다.
