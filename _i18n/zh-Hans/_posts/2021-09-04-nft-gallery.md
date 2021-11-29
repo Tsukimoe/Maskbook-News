@@ -26,6 +26,6 @@ Mask 扩展程序现在已经更新 NFT Gallery 功能。前往 Github 下载安
 
 ![]({{ site.baseurl_root }}/uploads/vitalik-nfts.jpg)
 
-我们相信，NFT Gallery 不仅是一个展示 NFT 的列表，一个把用户拥有的 NFT 一一列举的平台，它更是 Web2.0 用户通往 Wen3.0、通往元宇宙世界的一扇窗。就像 NFT 本身不仅仅是艺术品一样，NFT Gallery 里展示的也绝不仅仅是用户的艺术审美品味，更是用户的个人特质，是用户在 Web 3.0 世界里生活的点点滴滴。通过这扇窗户，你可以看到别人拥有的 CryptoPunk 头像、Loot、NFT 卡牌、ENS 域名等等他们在 Web 3.0 元宇宙的虚拟身份。
+我们相信，NFT Gallery 不仅是一个展示 NFT 的列表，一个把用户拥有的 NFT 一一列举的平台，它更是 Web2.0 用户通往 Web 3.0、通往元宇宙世界的一扇窗。就像 NFT 本身不仅仅是艺术品一样，NFT Gallery 里展示的也绝不仅仅是用户的艺术审美品味，更是用户的个人特质，是用户在 Web 3.0 世界里生活的点点滴滴。通过这扇窗户，你可以看到别人拥有的 CryptoPunk 头像、Loot、NFT 卡牌、ENS 域名等等他们在 Web 3.0 元宇宙的虚拟身份。
 
 NFT 在元宇宙的构建中至关重要，这也是 Mask Network 在搭建 Web 2.0 和 Web 3.0 之间桥梁时选择开发 NFT Gallery 功能的原因。Mask 希望更多用户能在 Twitter 上方便地一瞥广袤的 Web 3.0 世界，并对 Web 3.0 世界产生兴趣。
