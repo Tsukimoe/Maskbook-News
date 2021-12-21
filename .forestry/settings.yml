@@ -42,7 +42,7 @@ sections:
   match: "*"
   templates:
   - zh-tw-post
-  - type: directory
+- type: directory
   path: _i18n/es/_posts
   label: Español
   create: documents
