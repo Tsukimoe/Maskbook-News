@@ -141,4 +141,5 @@ fields:
       path: 
   label: Español
   hidden: true
-
+pages:
+- _i18n/es/_posts/mask-2.0-tu-portal-a-la-nueva-internet-abierta-esta-actualizada.md
