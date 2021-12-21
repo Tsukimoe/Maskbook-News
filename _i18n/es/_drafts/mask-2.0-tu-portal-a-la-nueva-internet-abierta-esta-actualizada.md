@@ -32,7 +32,7 @@ Nuestro enfoque único surgió de nuestra gran visión - devolver la autonomía 
 Sin embargo, Mask sigue teniendo unas lunares hasta ahora. Para alinearse mejor con nuestra visión y alcanzar nuestros objetivos, presentamos la novedosa Mask 2.0 para arreglar lo que no se ha hecho en la versión anterior y agilizar el proceso.
 
 * Se ha actualizado **la cartera Mask (MaskWallet) con soporte de multicadenas** en la extensión de escritorio como en la móvil para manejar el mundo multicadenas con facilidad;
-* El sistema de **Identidad Mask (MaskID)** para unificar tanto tus cuentas de la Web 2.0 como las direcciones de la Web 3.0 y su correspondiente gráfico social, ahora con inicios de sesión por correo electrónico;
+* El sistema de **Identidad Mask (MaskID)** para unificar tanto tus cuentas de la Web 2.0 como las direcciones de Web 3.0 y su correspondiente gráfico social, ahora con inicios de sesión por correo electrónico;
 * **Un mercado de dApps sin permisos y más estructurado - Mask Labs**, permitiendo un acceso más fácil por los usuarios y más creatividad de los desarrolladores.
 * **¡Explorar más detalles al usarla!**
 
@@ -68,7 +68,7 @@ En el lado del consumidor, hemos renovado nuestro front-end del mercado de dApps
 
 En cuanto a los desarrolladores, la comunidad es y será siempre la prioridad más alta en nuestro desarrollo a largo plazo. En el año pasado, recibimos una enorme ayuda de la comunidad de código abierto, especialmente de Gitcoin, donde publicamos más de 30 recompensas para mejorar la experiencia del usuario, enriquecer las características soportadas, aumentar el nivel de seguridad, añadir más soportes de plataforma y, lo que más importante, marcar la pauta para atraer más desarrolladores innovadores que contribuyan a nuestro ecosistema para ayudar a nuestros usuarios, incluidos ellos mismos, a construir una mejor web.
 
-Siguiendo nuestro plan de expansión hacia un mercado de dApps más completo, anunciamos que Mask Labs, el mercado de aplicaciones descentralizadas (dApps) de terceros dentro de Mask 2.0.
+Siguiendo nuestro plan de expansión hacia un mercado de dApps más completo, anunciamos que **Mask Labs**, el mercado de aplicaciones descentralizadas (dApps) de terceros dentro de Mask 2.0.
 
 En la era de Mask 2.0, seguiremos centrándonos en la construcción de nuestro ecosistema. La solicitud de nuestro primer lote de subvenciones de un total de 100K $MASK se abrirá junto con el lanzamiento de Mask 2.0. Más detalles de la subvención Mask se anunciarán pronto.
 
