@@ -127,3 +127,16 @@ fields:
       path: 
   label: Simpilified Chinese
   hidden: true
+- name: es
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: español-posts
+      file: 
+      path: 
+  label: Español
+  hidden: true

@@ -128,6 +128,19 @@ fields:
       path: 
   label: Tranditional Chinese
   hidden: true
+- name: es
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: español-posts
+      file: 
+      path: 
+  label: Español
+  hidden: true
 pages:
 - _i18n/en/_posts/2019-02-06-shanghai-lesswrong-meetup.md
 - _i18n/en/_posts/2019-02-27-iba-hosted-the-biennial-asia-pacific-regional-forum-to-which-dimension-legal-counsel-katt-gu-was-invited.md

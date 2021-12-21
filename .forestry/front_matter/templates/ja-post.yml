@@ -128,6 +128,19 @@ fields:
       path: 
   label: Traditional Chinese
   hidden: true
+- name: es
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: español-posts
+      file: 
+      path: 
+  label: Español
+  hidden: true
 pages:
 - _i18n/ja/_posts/2020-09-07-mask-network.md
 - _i18n/ja/_posts/2020-09-25-mask-net-work.md

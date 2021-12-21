@@ -42,6 +42,13 @@ sections:
   match: "*"
   templates:
   - zh-tw-post
+  - type: directory
+  path: _i18n/es/_posts
+  label: Español
+  create: documents
+  match: "*"
+  templates:
+  - es-post
 upload_dir: uploads
 public_path: "{{ site.baseurl_root }}/uploads"
 front_matter_path: ''
