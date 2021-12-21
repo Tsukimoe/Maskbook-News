@@ -1,0 +1,26 @@
+langs:
+  en: English
+  ja: 日本語
+  ko: 한국어
+  zh-Hans: 简体中文
+  zh-Hant: 繁體中文
+  es: español
+  
+
+pagination:
+  next_page: "Siguiente página"
+  previous_page: "Pagina anterior"
+
+sharing_button_prompt: "¡Sientete libre para compartir!"
+
+related_posts: "También puede disfrutar:"
+
+read_time_less_than_one_minute: "menos de 1 minuto de lectura"
+read_time_one_minute: "1 minuto de lectura"
+read_time_minute_prefix: ""
+read_time_minute_suffix: "minutos leídos"
+
+epilogue_website_title: "Sitio web oficial de Dimension"
+epilogue_product_title: "Productos"
+epilogue_social_title: "Redes sociales"
+epilogue_donate_title: "Ayúdanos donándonos"

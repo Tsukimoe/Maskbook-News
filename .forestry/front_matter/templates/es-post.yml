@@ -14,14 +14,14 @@ fields:
   config:
     required: true
   label: Language
-  default: ko
+  default: es
   hidden: true
 - name: template
   type: text
   config:
     required: false
   label: Template
-  default: Korean
+  default: Español
   description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
   hidden: true
 - name: title
@@ -53,13 +53,13 @@ fields:
   config:
     required: false
     options:
-    - 활동
-    - 주의
-    - 리뷰
-    - 뉴스
-    - 모임
-    - 뉴스
-    - 회견
+    - Actividad
+    - Aviso
+    - revisión
+    - Noticias
+    - Reunión
+    - Noticias
+    - Entrevista
     source:
       type: simple
       section: 
@@ -141,8 +141,4 @@ fields:
       path: 
   label: Español
   hidden: true
-pages:
-- _i18n/ko/_posts/2021-05-07-미들웨어가-이-세상을-바꾼다.md
-- _i18n/ko/_posts/2021-07-07-mask-pancakeswap-syrup-pools-farms.md
-- _i18n/ko/_posts/2021-11-05-mask-2.0.md
-- _i18n/ko/_posts/rss3-mask-network-web3.md
+
