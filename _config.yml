@@ -16,7 +16,7 @@ paginate: 20
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:titl
 plugins:
   [
     jekyll-paginate,
@@ -27,7 +27,7 @@ plugins:
     jekyll-multiple-languages-plugin,
   ]
 
-languages: ["en", "ja", "ko", "zh-Hans", "es"]
+languages: ["en", "ja", "ko", "zh-Hans", "es", "de"]
 exclude_from_localizations:
   ["uploads", "assets", "admin", "README.md", "LICENSE.md"]
 
