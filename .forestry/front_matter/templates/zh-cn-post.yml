@@ -140,6 +140,19 @@ fields:
       path: 
   label: Español
   hidden: true
+- name: de
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: deutsch-posts
+      file: 
+      path: 
+  label: Deutsch
+  hidden: true
 pages:
 - _i18n/en/_posts/2020-07-02-test-video.md
 - _i18n/en/_posts/2021-05-18-mask-network-will-work-with-nym-in-plugin-development-for-better-privacy-protection.md

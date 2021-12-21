@@ -141,5 +141,18 @@ fields:
       path: 
   label: Español
   hidden: true
+- name: de
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: deutsch-posts
+      file: 
+      path: 
+  label: Deutsch
+  hidden: true
 pages:
 - _i18n/es/_posts/2021-12-21-mask-2.0-tu-portal-a-la-nueva-internet-abierta-esta-actualizada.md

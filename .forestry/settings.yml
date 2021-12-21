@@ -47,8 +47,17 @@ sections:
   label: Español
   create: documents
   match: "*"
+  exclude: "*.yml"
   templates:
   - es-post
+- type: directory
+  path: _i18n/de/_posts
+  label: Deutsch
+  create: documents
+  match: "*"
+  exclude: "*.yml"
+  templates:
+  - de-post
 upload_dir: uploads
 public_path: "{{ site.baseurl_root }}/uploads"
 front_matter_path: ''
