@@ -12,7 +12,7 @@ pagination:
   next_page: "Siguiente página"
   previous_page: "Pagina anterior"
 
-sharing_button_prompt: "¡Sientete libre para compartir!"
+sharing_button_prompt: "¡Siéntate libre de compartirlo!"
 
 related_posts: "También puede disfrutar:"
 
@@ -21,7 +21,8 @@ read_time_one_minute: "1 minuto de lectura"
 read_time_minute_prefix: ""
 read_time_minute_suffix: "minutos leídos"
 
-epilogue_website_title: "Sitio web oficial de Dimension"
+epilogue_website_title: "Página Web Oficial de Dimension"
+
 epilogue_product_title: "Productos"
 epilogue_social_title: "Redes sociales"
 epilogue_donate_title: "Ayúdanos donándonos"
