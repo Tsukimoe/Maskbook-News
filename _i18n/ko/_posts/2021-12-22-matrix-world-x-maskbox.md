@@ -58,7 +58,7 @@ Mask Network는 MatrixWorld와 협업을 맺고 Mask Box 기능을 통해 Matrix
 
 6\.구매 자격이 있다면 “Draw” 클릭하여 구매할 수 있습니다.
 
-![]({{ site.baseurl_root }}/uploads/02-2.jpeg)
+![]({{ site.baseurl_root }}/uploads/04.jpeg)
 
 \*구매 자격이 없는 경우, “You must hold at least 300 $MASK”라는 알림이 나올 겁니다.
 
