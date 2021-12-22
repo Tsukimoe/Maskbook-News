@@ -41,25 +41,27 @@ Mask Network has partnered with Matrix World and will sell 30 Matrix Lands (size
 2. Visit [@realMaskNetwork](https://twitter.com/realMaskNetwork), the tweet will be released by the time the sale begins.
 3. Make sure you switched your network to “**_Ethereum Mainnet_**”
 
-![](https://cdn-images-1.medium.com/max/1600/1*dOcTRz4Hrs48nVdSv3cmrA.jpeg)
+![](https://cdn-images-1.medium.com/max/1600/1*dOcTRz4Hrs48nVdSv3cmrA.jpeg)![]({{ site.baseurl_root }}/uploads/01.jpeg)
 
 4\. After the sale begins, click “Confirm Risk Warning” and read relevant risk confirmation.
 
-![](https://cdn-images-1.medium.com/max/1600/0*aSbOBFVpv9qixcXV)
+![](https://cdn-images-1.medium.com/max/1600/0*aSbOBFVpv9qixcXV)![]({{ site.baseurl_root }}/uploads/02-2.jpeg)
 
 5\. Click “Confirm” if you have read and are aware of the risk.
 
-![](https://cdn-images-1.medium.com/max/1600/0*PyhRgW5lxr6Vz1mT)
+![](https://cdn-images-1.medium.com/max/1600/0*PyhRgW5lxr6Vz1mT)![]({{ site.baseurl_root }}/uploads/03-1.jpeg)
 
 6\. If you are eligible for the sale, you can click “Draw” to purchase it
 
-![](https://cdn-images-1.medium.com/max/1600/0*EBaWB4gF3QOPJhnj)
+![](https://cdn-images-1.medium.com/max/1600/0*EBaWB4gF3QOPJhnj)![]({{ site.baseurl_root }}/uploads/04.jpeg)
 
 _*If you are not eligible for the sale, the page will show “You must hold at least 300 $MASK”_
 
+![]({{ site.baseurl_root }}/uploads/05.png)
+
 7\. Confirm it in the pop-up window
 
-![](https://cdn-images-1.medium.com/max/1600/0*Gk5QoTR3ISI0n-Sl)
+![](https://cdn-images-1.medium.com/max/1600/0*Gk5QoTR3ISI0n-Sl)![]({{ site.baseurl_root }}/uploads/06.jpeg)
 
 8\. The mystery box is successfully drawn! Click “Share” and share it with your friends!
 
