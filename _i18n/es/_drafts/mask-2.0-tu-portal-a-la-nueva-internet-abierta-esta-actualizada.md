@@ -16,27 +16,23 @@ type: ''
 image: ''
 
 ---
-Desde nuestro lanzamiento inicial en 2019, Mask Network se ha dedicado a proteger la privacidad de los datos y a construir el mejor puente entre Web 2.0 y Web 3.0. Hemos introducido un ecosistema de más de 30 dApps populares de la Web 3.0 que funciona sin problemas en los sitios Web 2.0 existentes.
+![]({{ site.baseurl_root }}/uploads/0_3oempzuvp2-oherz.png)
+
+Desde nuestro lanzamiento inicial en 2019, Mask Network se ha dedicado a proteger la privacidad de los datos y a construir el mejor puente entre Web 2.0 y Web 3.0. Hemos introducido un ecosistema de más de 30 dApps populares de Web 3.0 que funciona sin problemas en los sitios Web 2.0 existentes.
 
 **El ecosistema de Mask Network incluye:**
 
-* **5 capas 1/ 2 utilizables** incluyen Ethereum mainnet, Polygon (Matic), BSC, Arbitrum y xDai (_próximamente otros L1/L2s como Solana, Flow, Avalanche, Fantom, NEAR, Celo, Zksync, Optimism_).
-
-
+* **5 capas 1/ 2 utilizables** incluyen la red principal de Ethereum, Polygon (Matic), BSC, Arbitrum y xDai (_próximamente otras capas 1/2 como Solana, Flow, Avalanche, Fantom, NEAR, Celo, Zksync, Optimism_).
 * **Aplicaciones de terceros** como Uniswap, OpenSea, Arweave, Snapshot, etc., que abarcan DeFi, NFT y Web 3.0 en general.
-
-
 * Algunas de **nuestras propias creaciones**, como la mensajería cifrada, Lucky Drop, la oferta inicial de Twitter (ITO) y la visualización de activos de Web 3.0, la galería/avatar de NFT, etc..
-
-
 * **Integración de sitios Web 2.0** existentes: Twitter, Facebook, Minds.com (próximamente en Instagram, Reddit y una serie de foros de renombre).
-
-
 * Datos proporcionados por DeBank, Zerion, CoinMarketCap, CoinGecko y NFTSCAN.
 
 Nuestro enfoque único surgió de nuestra gran visión - devolver la autonomía de los datos al humano y, además, darle el derecho a interpretar y componer libremente la información.Como tal, a diferencia de cualquier otro proyecto de Web 3.0, nuestro enfoque ha sido único en el sentido de que estamos construyendo una infraestructura descentralizada que prácticamente permite realizar cualquier cambio en nuestros sitios familiares de Web 2.0, de ahí que surja el ecosistema dApps de Mask.
 
-Sin embargo, la Mask presente sigue teniendo unas lunares. Para alinearse mejor con nuestra visión y alcanzar nuestros objetivos, presentamos la novedosa Mask 2.0 para arreglar lo que no se ha hecho en la versión anterior y agilizar el proceso.
+***
+
+Sin embargo, Mask presente sigue teniendo unas lunares hasta ahora. Para alinearse mejor con nuestra visión y alcanzar nuestros objetivos, presentamos **la novedosa Mask 2.0** para arreglar lo que no se ha hecho en la versión anterior y agilizar el proceso.
 
 * Se ha actualizado la cartera Mask (MaskWallet) con soporte de multicadenas en la extensión de escritorio como en la móvil para manejar el mundo multicadenas con facilidad;
 * El sistema de Identidad Mask (MaskID) para unificar tanto tus cuentas de la Web 2.0 como las direcciones de la Web 3.0 y su correspondiente gráfico social, ahora con inicios de sesión por correo electrónico;
