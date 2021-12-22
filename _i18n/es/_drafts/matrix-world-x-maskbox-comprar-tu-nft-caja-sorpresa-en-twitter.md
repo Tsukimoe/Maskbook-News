@@ -10,12 +10,15 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: 'Matrix World × MaskBox: Comprar Tu NFT Caja Sorpresa en Twitter'
+title: 'Matrix World × MaskBox: Ya Puedes Comprar la Primera Caja Sorpresa de NFT
+  en Twitter'
 description: ''
 type: ''
 image: ''
 
 ---
+![]({{ site.baseurl_root }}/uploads/081.png)
+
 Mask Network ha tratado de facilitar a los usuarios jugar con los NFTs en el mundo de Web 3.0. Una de las características más conocidas de Mask, la Oferta Inicial de Twitter (ITO), ha llevado un concepto notorio en el mundo de Web 3.0 a la red social principal y ha atraído mucha atención.
 
 La popularidad de ITO nos ha inspirado que hay muchas más metas que se pueden alcanzar en Twitter. En el año 2021, el concepto de NFT tuvo un gran éxito, y Mask Network ha lanzado muchas nuevas características en consecuencia: mostrar las NFT que uno posee en su página de perfil de Twitter utilizando la pestaña "Web3"; crear el avatar de Twitter con un NFT que posea y mostrar a los demás que está verificada con una insignia, etc. Estas funciones ayudan a los usuarios a echar un vistazo al mundo de NFT y Web 3.0. Pero eso no es todo, encima que queremos hacer algo parecido a ITO, pero mucho más audaz: queremos vender cajas sorpresas de NFT en Twitter. Los usuarios que hayan instalado la extensión Mask y hayan terminado la configuración pertinente podrán comprar y compartir la caja sorpresa de NFT en Twitter con unos pocos clics.
