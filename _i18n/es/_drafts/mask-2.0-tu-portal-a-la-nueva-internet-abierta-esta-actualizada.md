@@ -34,18 +34,24 @@ Nuestro enfoque único surgió de nuestra gran visión - devolver la autonomía 
 
 Sin embargo, Mask presente sigue teniendo unas lunares hasta ahora. Para alinearse mejor con nuestra visión y alcanzar nuestros objetivos, presentamos **la novedosa Mask 2.0** para arreglar lo que no se ha hecho en la versión anterior y agilizar el proceso.
 
-* Se ha actualizado la cartera Mask (MaskWallet) con soporte de multicadenas en la extensión de escritorio como en la móvil para manejar el mundo multicadenas con facilidad;
-* El sistema de Identidad Mask (MaskID) para unificar tanto tus cuentas de la Web 2.0 como las direcciones de la Web 3.0 y su correspondiente gráfico social, ahora con inicios de sesión por correo electrónico;
-* Un mercado de dApps sin permisos y más estructurado - Mask Labs, permitiendo un acceso más fácil por los usuarios y más creatividad de los desarrolladores.
+* Se ha actualizado **la cartera Mask (MaskWallet) con soporte de multicadena** en la extensión de escritorio como en la móvil para manejar el mundo multicadena con facilidad;
+* El sistema de **Identidad Mask (MaskID)** para unificar tanto tus cuentas de la Web 2.0 como las direcciones de la Web 3.0 y su correspondiente gráfico social, ahora con inicios de sesión por correo electrónico;
+* **Un mercado de dApps sin permisos y más estructurado - Mask Labs**, permitiendo un acceso más fácil por los usuarios y más creatividad de los desarrolladores.
 * **¡Explorar más detalles al usarla!**
 
-**MaskWallet con multicadenas**
+  ![]({{ site.baseurl_root }}/uploads/0_gnagfvmzqn0n2w3f.png)
+
+**MaskWallet con multicadena**
+
+![]({{ site.baseurl_root }}/uploads/0_kxmpjsnwrrwb3eny.png)
 
 En cuanto a las opciones de carteras, desde finales de 2020 permitimos la conexión directa de MetaMask y WalletConnect, que han sido las opciones por defecto de mucha gente. Por lo tanto, la cartera nativa de Mask ha sido una cartera relativamente rudimentaria.
 
 A medida que surge el mundo de multicadenas, la cartera Mask se ha parecido inoportuna hace mucho tiempo. Hemos rediseñado la cartera Mask desde cero para incorporar las necesidades crecientes. La nueva cartera Mask no sólo es compatible con las 5 capas 1/ capa 2 actuales de EVM, sino que también ha sentado la base para las cadenas que no son EVM. También hemos proporcionado un acceso rápido para los puentes entre cadenas.
 
 **MaskID**
+
+![]({{ site.baseurl_root }}/uploads/0_khkpowzhus3vn9ul.jpeg)
 
 La identidad ha sido un principio fundamental de la visión de autonomía de datos de Mask: los datos pertenecen al usuario, pero ¿quién es ese usuario? ¿Es la misma persona en todos los sitios web? ¿Pertenecen esas direcciones de cartera a la misma persona? Creemos que los usuarios deben tener la libertad de decidir si quieren reunir la identidad y, en caso afirmativo, debemos proporcionarles una forma agradable y fácil de gestionar toda la información relacionada con la identidad.
 
@@ -60,6 +66,8 @@ Anteriormente sólo teníamos el sistema estándar de clave pública-privada, en
 La forma y el posicionamiento únicos de Mask permiten casi cualquier tipo de integración de las dApps existentes y futuras orientadas al consumidor en cualquier sitio web 2.0.
 
 Las clasificamos en DeFi, NFT y funciones más amplias de Web 3.0, puedes ver una lista incompleta de dApps. ¡Imagínate un ecosistema de dApps de más de 100 dApps y más! Pero ese no es el límite, hemos construido la infraestructura y queremos darte el derecho creativo.
+
+![]({{ site.baseurl_root }}/uploads/wechatimg4549.jpg)
 
 En el lado del consumidor, hemos renovado nuestro front-end del mercado de dApps para facilitar el acceso. A medida que el número de aplicaciones se acumulaba, era un problema para los usuarios encontrar las correspondientes dApps de diversas utilidades anteriormente. Y ahora, con el front-end actualizado, las apps están mejor categorizadas. Los usuarios podrán elegir sus aplicaciones favoritas y mostrarlas en el orden que deseen.
 
