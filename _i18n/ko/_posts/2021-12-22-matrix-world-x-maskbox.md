@@ -55,13 +55,17 @@ Mask Network는 MatrixWorld와 협업을 맺고 Mask Box 기능을 통해 Matrix
 
 ![](https://lh5.googleusercontent.com/npGq7uHijsVhcGD6DgabR-MLJzZurUZawvzQ3Ro2JskEfKWVECHpgM7cYFlPdPXaryeIEbWhDXl0YMFW5K6D23XNgqFyG5lLqGWbOBx7lNsgZgNTGe9LRFrpLXwY12v6RvEcCPYA =602x395)
 
-구매 자격이 없는 경우, “You must hold at least 300 $MASK”라는 알림이 나올 겁니다.
+\*구매 자격이 없는 경우, “You must hold at least 300 $MASK”라는 알림이 나올 겁니다.
 
 7. Metamask의 팝업창에서 거래를 확인하세요.
 
 ![](https://lh6.googleusercontent.com/4IGN9nyZBA067KIU1K3RSFKE0uusbWV8jbs1lur1nr5tgoutnVvwoIKXADVacio0E1ve42Rnpj6eaMOIxyCb9z5JaUN3G0wAv-j9QVzClZSgZC5btMFTOotHKVFt_E-Wh-qpvdIj =602x377)
 
 8. 구매가 성공되었습니다! “Share” 클릭하여 친구들에거 공유하세요!
+
+   ![](https://cdn-images-1.medium.com/max/1600/0*4-svux-V8ZukUbtk)
+
+   ![](https://cdn-images-1.medium.com/max/1600/0*GcpJyZOnaEOGlUH-)
 
 **MatrixWorld**
 
