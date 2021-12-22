@@ -44,23 +44,39 @@ Bitte überprüfe die Details des Verkaufs:
 
 **So nimmst du teil:**
 
-1\. Bitte stellst du sicher, dass du die Mask Network-Erweiterung installiert und die Wallet eingerichtet haben, die du für den Kauf benötigst.
+1\. Bitte stellst du sicher, [dass du die Mask Network-Erweiterung installiert](https://realmasknetwork.notion.site/Installation-set-up-dd3329c7b3124108a8e992829a61a51e) und [die Wallet eingerichtet haben, die du für den Kauf benötigst](https://realmasknetwork.notion.site/Setting-up-your-wallet-Support-MetaMask-and-WalletConnect-67c1ba13c5664eda9a9240f8e145366a).
 
-2\. Besuche @realMaskNetwork, der Tweet wird veröffentlicht, wenn der Verkauft beginnt.
+2\. Besuche [**@realMaskNetwork**](https://twitter.com/realMaskNetwork), der Tweet wird veröffentlicht, wenn der Verkauft beginnt.
 
-3\. Stellst du sicher, dass du dein Netzwerk auf „Ethereum Mainnet“ umgestellt hast.
+3\. Stellst du sicher, dass du dein Netzwerk auf **_„Ethereum Mainnet“_** umgestellt hast.
+
+![]({{ site.baseurl_root }}/uploads/01.jpeg)
 
 4\. Klicke nach dem Start des Verkaufs auf „Confirm Risk Warning“ und liest du die entsprechende Risikobestätigung durch.
 
-5\. Klick auf „Bestätigen“, nachdem du gelesen hast und dir dessen bewusst bist.
+![]({{ site.baseurl_root }}/uploads/02-2.jpeg)
+
+5\. Klick auf „Confirm“, nachdem du gelesen hast und dir dessen bewusst bist.
+
+![]({{ site.baseurl_root }}/uploads/03-1.jpeg)
 
 6\. Wenn du für den Verkauf berechtigt bist, kannst du auf „Draw“ klicken, um es zu kaufen.
+
+![]({{ site.baseurl_root }}/uploads/04.jpeg)
+
+![]({{ site.baseurl_root }}/uploads/05.png)
 
 \*Wenn du nicht für den Verkauf berechtigt bist, wird auf der Seite „You must hold at least 300 $MASK“ angezeigt.
 
 7\. Bestätige es in einem Pop-up-Fenster.
 
+![]({{ site.baseurl_root }}/uploads/06.jpeg)
+
 8\. Die Mystery Box ist erfolgreich gezogen! Klick auf „Share“ und du kannst es jetzt mit deinen Freunden teilen!
+
+![]({{ site.baseurl_root }}/uploads/09.jpeg)
+
+![]({{ site.baseurl_root }}/uploads/10.jpeg)
 
 Über MatrixWorld
 
