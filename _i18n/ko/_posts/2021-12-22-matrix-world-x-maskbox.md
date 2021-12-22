@@ -10,7 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: 'Matrix World X MaskBox: 트위터에서 랜덤박스 구매 가능'
+title: 'Matrix World × MaskBox: 트위터에서 랜덤박스 구매 가능'
 description: ''
 type: ''
 image: ''
