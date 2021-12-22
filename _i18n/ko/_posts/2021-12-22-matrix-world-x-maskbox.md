@@ -55,13 +55,15 @@ Mask Network는 MatrixWorld와 협업을 맺고 Mask Box 기능을 통해 Matrix
 
 6. 구매 자격이 있다면 “Draw” 클릭하여 구매할 수 있습니다.
 
-![](https://lh5.googleusercontent.com/npGq7uHijsVhcGD6DgabR-MLJzZurUZawvzQ3Ro2JskEfKWVECHpgM7cYFlPdPXaryeIEbWhDXl0YMFW5K6D23XNgqFyG5lLqGWbOBx7lNsgZgNTGe9LRFrpLXwY12v6RvEcCPYA =602x395)
+![]({{ site.baseurl_root }}/uploads/02-2.jpeg)
 
 \*구매 자격이 없는 경우, “You must hold at least 300 $MASK”라는 알림이 나올 겁니다.
 
+![]({{ site.baseurl_root }}/uploads/05.png)
+
 7. Metamask의 팝업창에서 거래를 확인하세요.
 
-![](https://lh6.googleusercontent.com/4IGN9nyZBA067KIU1K3RSFKE0uusbWV8jbs1lur1nr5tgoutnVvwoIKXADVacio0E1ve42Rnpj6eaMOIxyCb9z5JaUN3G0wAv-j9QVzClZSgZC5btMFTOotHKVFt_E-Wh-qpvdIj =602x377)
+![]({{ site.baseurl_root }}/uploads/06.jpeg)
 
 8. 구매가 성공되었습니다! “Share” 클릭하여 친구들에거 공유하세요!
 
