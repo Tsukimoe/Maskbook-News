@@ -16,7 +16,7 @@ description: ''
 image: ''
 
 ---
-![Image](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCIeEAnFWiaWOegnOMlUAzozLGDvibo0olUAZLyVYydMtShT0warZXGLgCibfPXsZXgk7ptMmRd5Nx9g/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/081.png)
 
 Mask Network 一直在探索如何让更多用户以更简便、更轻松的方式接触 NFT 和 Web 3.0 的世界。Mask Network 此前最广为人知的功能之一 —— ITO，就把一个 Web 3.0 世界更为熟知的概念带到了主流社交网络上，并获得了较多的关注。
 
@@ -55,33 +55,33 @@ Matrix World 是一个去中心化的开放虚拟世界，一个可编程的 3D 
 
 3\. 发售开始前，建议提前将钱包网络切换至「Ethereum Mainnet」；
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHCIeEAnFWiaWOegnOMlUAzozpJEhI0x356MfNsg6tuOtu9UOuOibDXHo6Dl8M3GbaqAicw4x17tibliaaw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/01.jpeg)
 
 4\. 发售开始后，在页面上点击「Confirm Risk Warning」并阅读风险提示；
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCIeEAnFWiaWOegnOMlUAzozbluibTTfian8GUibR42gcCdquphDDlaOlqrQGLcAhoOnoBPCKXI1W3sSQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/02-2.jpeg)
 
 5\. 阅读风险提示后，点击「Confirm」确认您已知晓相关风险，并同意继续；
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCIeEAnFWiaWOegnOMlUAzozG5TREPNOx7JdcLKSiaMtEA40Z194ArwLPegfiaLF6QooVzTT6HKUJANA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/03-1.jpeg)
 
 6\. 如果您符合认购资格，则可以点击「Draw」抽取；
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCIeEAnFWiaWOegnOMlUAzozmeURMTOhkV8OuQ5PIGdlKZSzBSu1QMl2OQAO7Kg0TiaVzePcIr0QOfw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/04.jpeg)
 
 \*如果不符合认购资格，页面会显示 “You must hold at least 300 $MASK”；
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCIeEAnFWiaWOegnOMlUAzozxKDsTzkF4x9hG9rc7eBFLlNrAnZ4tceJtSTBSSKyz7JQYEb2ickGOcg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/05.png)
 
 7\. 在钱包弹出窗口中点击「Confirm」确认；
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCIeEAnFWiaWOegnOMlUAzoz1hiclDP60jVEEFINuutpGkPgibSju69HthO166AsQcvicUtpj3FttIJKA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/06.jpeg)
 
 8\. 购买完成！快点击「Share」和 Twitter 好友分享吧。
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHCIeEAnFWiaWOegnOMlUAzozzVL8ns4oTMynbj5IeXsGGibK3mguASjs6qC0hKTaF8iamokc1XKUKvMA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://news.mask.io/uploads/09.jpeg)
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHCIeEAnFWiaWOegnOMlUAzozR5ud9ST97cmCc4rBp3uIeRargI6tI40DslfUTdgGb6HrnQcbkUaSzw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://news.mask.io/uploads/10.jpeg)
 
 **_关于 Matrix World_**
 
