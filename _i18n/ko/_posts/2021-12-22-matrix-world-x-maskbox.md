@@ -40,20 +40,23 @@ Mask Network는 MatrixWorld와 협업을 맺고 Mask Box 기능을 통해 Matrix
 
 **참여 방법：**
 
-1. Mask Network 확장을 설치하고 구매에 사용할 월렛을 설정했는지 확인하세요.
-2. [@realMaskNetwork](https://twitter.com/realMaskNetwork) 방문하세요. 예매가 시작할 때 해당 트윗은 공유될 겁니다.
-3. “Ethereum Mainnet”로 전환한 지 미리 확인하세요.
+1\.Mask Network 확장을 설치하고 구매에 사용할 월렛을 설정했는지 확인하세요.
 
-   ![]({{ site.baseurl_root }}/uploads/01.jpeg)
-4. 예매이 시작하고 “Confirm Risk Warning” 클리하여 주의 사항을 확인하세요.
+2\.[@realMaskNetwork](https://twitter.com/realMaskNetwork) 방문하세요. 예매가 시작할 때 해당 트윗은 공유될 겁니다.
+
+3\.“Ethereum Mainnet”로 전환한 지 미리 확인하세요.
+
+4\.![]({{ site.baseurl_root }}/uploads/01.jpeg)
+
+4\.예매이 시작하고 “Confirm Risk Warning” 클리하여 주의 사항을 확인하세요.
 
 ![]({{ site.baseurl_root }}/uploads/02-2.jpeg)
 
-5. 리스크 주의 사항을 다 확인하고 “Confirm” 클릭하세요.
+5\.리스크 주의 사항을 다 확인하고 “Confirm” 클릭하세요.
 
-![](https://lh5.googleusercontent.com/CkKxoOR9ysnnfgbiuMtsa60ICs7u79CAIlnZ9bDr86TtlJk3I0u9U-AqxD5NGXqSze1S38TkBpk9cuE44FRxAc4CQxpwEhv4quCewOwvL_5EI95sotBpRVGrYFpbRjvJXON6XnId =602x395)
+![]({{ site.baseurl_root }}/uploads/03-1.jpeg)
 
-6. 구매 자격이 있다면 “Draw” 클릭하여 구매할 수 있습니다.
+6\.구매 자격이 있다면 “Draw” 클릭하여 구매할 수 있습니다.
 
 ![]({{ site.baseurl_root }}/uploads/02-2.jpeg)
 
@@ -61,15 +64,15 @@ Mask Network는 MatrixWorld와 협업을 맺고 Mask Box 기능을 통해 Matrix
 
 ![]({{ site.baseurl_root }}/uploads/05.png)
 
-7. Metamask의 팝업창에서 거래를 확인하세요.
+7\.Metamask의 팝업창에서 거래를 확인하세요.
 
 ![]({{ site.baseurl_root }}/uploads/06.jpeg)
 
-8. 구매가 성공되었습니다! “Share” 클릭하여 친구들에거 공유하세요!
+8\.구매가 성공되었습니다! “Share” 클릭하여 친구들에거 공유하세요!
 
-   ![](https://cdn-images-1.medium.com/max/1600/0*4-svux-V8ZukUbtk)
+![]({{ site.baseurl_root }}/uploads/09.jpeg)
 
-   ![](https://cdn-images-1.medium.com/max/1600/0*GcpJyZOnaEOGlUH-)
+![]({{ site.baseurl_root }}/uploads/10.jpeg)
 
 **MatrixWorld**
 
