@@ -43,11 +43,13 @@ Mask Network는 MatrixWorld와 협업을 맺고 Mask Box 기능을 통해 Matrix
 1. Mask Network 확장을 설치하고 구매에 사용할 월렛을 설정했는지 확인하세요.
 2. [@realMaskNetwork](https://twitter.com/realMaskNetwork) 방문하세요. 예매가 시작할 때 해당 트윗은 공유될 겁니다.
 3. “Ethereum Mainnet”로 전환한 지 미리 확인하세요.
+
+   ![]({{ site.baseurl_root }}/uploads/01.jpeg)
 4. 예매이 시작하고 “Confirm Risk Warning” 클리하여 주의 사항을 확인하세요.
 
-![](https://lh5.googleusercontent.com/NsjljpzhQlqrPxTNww9eO0W73wqujxcun1cAEPWFxg6nuoZr49Uajw2I14NqcD-25Dpia061LnnEmUfIA4OPl_MUgLKYwkeuD-zohodiRttnzpM3qzmMhC-T_9ZEwhvPqe1VqtB0 =602x395)
+![]({{ site.baseurl_root }}/uploads/02-2.jpeg)
 
-5. 리스크 주의 사항을 다 확인하고 “Confirm” 클리하세요.
+5. 리스크 주의 사항을 다 확인하고 “Confirm” 클릭하세요.
 
 ![](https://lh5.googleusercontent.com/CkKxoOR9ysnnfgbiuMtsa60ICs7u79CAIlnZ9bDr86TtlJk3I0u9U-AqxD5NGXqSze1S38TkBpk9cuE44FRxAc4CQxpwEhv4quCewOwvL_5EI95sotBpRVGrYFpbRjvJXON6XnId =602x395)
 
