@@ -16,7 +16,9 @@ type: ''
 image: ''
 
 ---
-![]({{ site.baseurl_root }}/uploads/081.png)Mask Network has been trying to carve an easier path for users to play with NFTs and the Web 3.0 world. One of Mask’s most well-known features — Initial Twitter Offering (ITO), has brought a well-known concept in the Web 3.0 world upon the mainstream social media network and has gained much attention.
+![]({{ site.baseurl_root }}/uploads/081.png)
+
+Mask Network has been trying to carve an easier path for users to play with NFTs and the Web 3.0 world. One of Mask’s most well-known features — Initial Twitter Offering (ITO), has brought a well-known concept in the Web 3.0 world upon the mainstream social media network and has gained much attention.
 
 The popularity of ITO has inspired us, that there are much more things that could be achieved on Twitter. In the year 2021, the concept of NFT was a huge hit, and Mask Network has launched many new features accordingly: display the NFTs one owns on their Twitter profile page using the “Web3” tab; set Twitter profile pic with an NFT they own and show others it is verified with a badge, etc. These features help mainstream social media users to get a glimpse into the world of NFTs and Web 3.0. But that’s not everything. On top of that, we want to do something similar to ITO, but much bolder: we want to sell NFT Mystery Boxes on Twitter. Users who installed Mask extension and have finished relevant settings will be able to purchase and share the NFT mystery box on Twitter with a few clicks.
 
