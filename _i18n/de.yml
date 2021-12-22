@@ -11,16 +11,16 @@ pagination:
   next_page: "Nächste Seite"
   previous_page: "Vorherige Seite"
 
-sharing_button_prompt: "Sie können dies gerne teilen!"
+sharing_button_prompt: "Du kannst dies gerne teilen!"
 
-related_posts: "Sie können auch genießen:"
+related_posts: "Was dir auch gefallen könnte:"
 
-read_time_less_than_one_minute: "weniger als 1 Minute lesen"
-read_time_one_minute: "1 Minute lesen"
+read_time_less_than_one_minute: "Lesezeit weniger als eine Minute"
+read_time_one_minute: "Lesezeit 1 Minute"
 read_time_minute_prefix: ""
 read_time_minute_suffix: "Minuten gelesen"
 
 epilogue_website_title: "Offizielle Dimension-Website"
 epilogue_product_title: "Produkte"
 epilogue_social_title: "Sozialen Medien"
-epilogue_donate_title: "Helfen Sie uns, indem Sie uns spenden"
+epilogue_donate_title: "Hilf uns mit Deiner Spende"
