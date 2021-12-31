@@ -51,3 +51,7 @@ Con la llegada de 2022, nos gustaría invitar a los que han usado la versión de
 
 1. Para conseguir el POAP: Completa **la Misión 1**
 2. Para conseguir NFT: seleccionaremos al azar a 50 afortunados usuarios que hayan completado la **Misión 2**
+
+Completar cualquiera de las misiones anteriores te otorgará el rol de "iOS_Crew" en el canal de Discord de Mask Network, y todas las recompensas se distribuirán a más tardar el 5 de enero.
+
+##### _¡Feliz Año Nuevo!_
