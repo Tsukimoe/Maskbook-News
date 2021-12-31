@@ -14,7 +14,7 @@ title: Verwende Mask Network iOS und erhalte exklusive NFT & POAPs für das neue
   2022
 description: ''
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/papercut.jpeg"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/wechatimg238_1400x.png)

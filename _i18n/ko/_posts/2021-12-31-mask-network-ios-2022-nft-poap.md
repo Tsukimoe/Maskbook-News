@@ -13,7 +13,7 @@ de: []
 title: Mask Network iOS 이용 이벤트, 2022 새해 한정 NFT & POAP 증정
 description: ''
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/papercut.jpeg"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/wechatimg238_1400x.png)
