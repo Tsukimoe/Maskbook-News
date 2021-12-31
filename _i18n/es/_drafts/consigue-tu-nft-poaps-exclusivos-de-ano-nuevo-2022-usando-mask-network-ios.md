@@ -27,6 +27,8 @@ Hemos rediseñado la interfaz de la aplicación para iOS, por lo tanto te propor
 
 Ahora descubre más por buscar "Mask Network" en App Store, o haga clic [aquí](https://apps.apple.com/app/id1478382964) para descargarla directamente: [https://apps.apple.com/app/id1478382964](https://apps.apple.com/app/id1478382964 "https://apps.apple.com/app/id1478382964")
 
+![]({{ site.baseurl_root }}/uploads/img_6264.jpg)
+
 Con la llegada de 2022, nos gustaría invitar a los que han usado la versión de iOS, a los que la usan actualmente, incluso a los que están a punto de unirse al club, a participar en este emocionante evento de Año Nuevo 2022. Únete a nuestra comunidad de Discord ([discord.gg/4SVXvj7](https://t.co/FxIFr1QpSv)), completa la(s) misión(es) y obtén NFT o POAP como nuestro regalo de año nuevo.
 
   
@@ -38,5 +40,14 @@ Con la llegada de 2022, nos gustaría invitar a los que han usado la versión de
 
 * **Misión 1**: Haz una captura de pantalla de tu página de Persona usando la versión iOS de Mask Network (ver ejemplo abajo), y mándala en el canal de Discord #📱 Mask_iOS con tu dirección ETH.
 
+  ![]({{ site.baseurl_root }}/uploads/img_6255.PNG)
+
 
 * **Misión 2**: Publica un tuit que contenga 1) tus deseos de año nuevo; 2) una imagen que muestre tu página de perfil de Twitter en la aplicación Mask Network iOS (ver ejemplo más abajo) y 3) el hashtag #MaskNetwork_iOS, y copia la URL del tuit en Discord # 📱 Mask_iOS Channel con tu dirección ETH.
+
+  ![]({{ site.baseurl_root }}/uploads/img_6263.PNG)
+
+**Criterio**
+
+1. Para conseguir el POAP: Completa **la Misión 1**
+2. Para conseguir NFT: seleccionaremos al azar a 50 afortunados usuarios que hayan completado la **Misión 2**
