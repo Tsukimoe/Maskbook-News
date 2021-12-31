@@ -18,7 +18,9 @@ image: ''
 ---
 ![]({{ site.baseurl_root }}/uploads/wechatimg238_1400x.png)
 
-Mask Network iOS 版本于近期迎来了重大更新。更新后的 iOS 版本中暗含着不少惊喜，不少功能都与扩展程序中的「Mask 2.0」版本升级相对应。我们十分期待各位用户在使用过程中探索并且发现它们。  
+Mask Network iOS 版本于近期迎来了重大更新。更新后的 iOS 版本中暗含着不少惊喜，不少功能都与扩展程序中的「Mask 2.0」版本升级相对应。我们十分期待各位用户在使用过程中探索并且发现它们。
+
+  
 ![]({{ site.baseurl_root }}/uploads/1-65.png)
 
 Mask Network iOS 版本为各位用户带来全新的使用体验。我们重新设计了应用程序界面，不仅「Persona」、「Wallet」等页面有了新的样式，我们还增加了与扩展程序里去中心化应用程序市场「D.Market」对应的「Labs」页面，用户可以在上面选择使用一些曾经只能在网页上查看的去中心化应用程序。除此之外，iOS 版本支持对其他手机上钱包 App （钱包需支持 WalletConnect 标准）的直接连接。用户可以选择连接多个钱包，并在 Mask Network App 上直接查看多链资产。
