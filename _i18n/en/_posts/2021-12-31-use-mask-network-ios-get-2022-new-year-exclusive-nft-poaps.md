@@ -40,14 +40,13 @@ January 1st — January 3rd
 
 #### **🎁 Prize**
 
-2022 New Year Exclusive NFTs and POAPs (see how to be eligible to get them below)
+2022 New Year Exclusive NFTs and POAPs (see how to be eligible to get them below)  
+![]({{ site.baseurl_root }}/uploads/wechatimg26091.jpeg)
 
 #### **☑️ Missions**
 
 * **Mission 1**: Take a screenshot of your Persona page using Mask Network iOS version (see example below), and send it in Discord [#📱Mask_iOS](https://discord.gg/E4zeJPG8Cp) Channel with your ETH address.  
   ![]({{ site.baseurl_root }}/uploads/img_6255.PNG)
-
-
 * **Mission 2**: Send a tweet containing 1) your new year wishes; 2) a picture that shows your Twitter profile page on the Mask Network iOS app (see example below) and 3) hashtag #MaskNetwork_iOS, and post the tweet URL to Discord [#📱 Mask_iOS](https://discord.gg/E4zeJPG8Cp) Channel with your ETH address.  
   ![]({{ site.baseurl_root }}/uploads/img_6263.PNG)
 
