@@ -54,6 +54,8 @@ Ezek은 2022년 첫 날 PHANTACi NFT 세일을 시작했고, NFT 컬렉션은 "P
    ![]({{ site.baseurl_root }}/uploads/6-17.jpg)
 
    구매 자격이 없는 경우, “You must hold at least 100 $MASK”라는 알림이 나올 겁니다.
+
+   ![]({{ site.baseurl_root }}/uploads/6-2-1.jpg)
 7. Metamask의 팝업창에서 거래를 확인하세요.
 
    ![]({{ site.baseurl_root }}/uploads/7-19.jpg)
