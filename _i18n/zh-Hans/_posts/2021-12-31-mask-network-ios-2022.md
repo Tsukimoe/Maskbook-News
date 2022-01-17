@@ -11,7 +11,7 @@ ko: []
 zh-Hant: []
 es: []
 de: []
-title: 活动｜下载使用 Mask Network iOS 版本，有机会获得 2022 新年限定纪念数字藏品！
+title: 下载使用 Mask Network iOS 版本，有机会获得 2022 新年限定纪念数字藏品！
 description: ''
 image: ''
 
