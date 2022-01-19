@@ -20,9 +20,8 @@ image: ''
 
 Mask Network 十分开心地宣布与聚合交易协议 OpenOcean 展开合作。目前 OpenOcean 已成为 Mask Network 产品中 Swap 功能的其中一个选择，其独特的技术将能使用户在交易时获得更优的费率。
 
-OpenOcean 是一个聚合交易协议，目前聚合了多达 14 条链。OpenOcean 现已聚合 Ethereum和Layer 2、Arbitrum、Binance Smart Chain、Avalanche、Fantom、Polygon、Solana、Terra、BoBa、Gnosis（原 xDai）、HECO、OEC、TRON、Ontology 主流公链上的 DEX 和主流 CEX（Binance）。在 OpenOcean 最近的 Atlantic 升级中，他们通过设置多重参数的方式为用户提供了更高效的算法和协议，使用户能在交易时获得更优的费率。
+OpenOcean 是一个聚合交易协议，目前聚合了多达 14 条链。OpenOcean 现已聚合 Ethereum 和 Layer 2、Arbitrum、Binance Smart Chain、Avalanche、Fantom、Polygon、Solana、Terra、BoBa、Gnosis（原 xDai）、HECO、OEC、TRON、Ontology 主流公链上的 DEX 和主流 CEX（Binance）。在 OpenOcean 最近的 Atlantic 升级中，他们通过设置多重参数的方式为用户提供了更高效的算法和协议，使用户能在交易时获得更优的费率。
 
-  
 Mask Network 也在多链赛道上耕耘，从最初仅支持 Ethereum Mainnet，到增加 Binance Smart Chain、Polygon（Matic），再到近期的二层网络 Arbitrum 和 xDai（Gnosis Chain），逐步扩张在链上世界的版图，并会在未来增加对 Solana、Flow 等的支持。
 
 ![]({{ site.baseurl_root }}/uploads/oo_swap.jpeg)  
