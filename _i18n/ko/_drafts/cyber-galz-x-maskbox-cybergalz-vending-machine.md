@@ -61,8 +61,9 @@ Galz NFT는 크래프트 솔루션을 통한 커스터마이징 기능을 제공
    구매 자격이 없는 경우, “You must hold at least 1 $MASK”라는 알림이 나올 겁니다.  
    ![]({{ site.baseurl_root }}/uploads/6-2-1.jpg)
 7. Metamask의 팝업창에서 거래를 확인하세요.  
-   ![](https://lh3.googleusercontent.com/SnVlCraKkpCq_wgpbqCk5_8moS2iPImg4Mkah7OTSj7jCMhccIL5JczF4UM92k6tDviK6rncMvVPqLSFnd4UoczzS8Fikx6pk7CV7Wd_o5dt0kbYZ_tXnpcgEpa7GpvgodaShLSb =602x377)
-8. 구매가 성공되었습니다! “Share” 클릭하여 친구들에거 공유하세요!  
-   ![](https://lh4.googleusercontent.com/pRt6zuR--uQ0R0Q2h45YkUaRGiP0dfJwrp2J01uPasrWiuB9EJfeTS1TfVDzXvWvabQ2oFkB1SbAV_e_TE04xBmso-P5Maza99dnjBXiGn7kYchotM2hrsMTz-tQ10GRqEliIxot =602x388)  
-   ![](https://lh6.googleusercontent.com/4o10w9KY9fi27LZzh0K2rnGC8UltI7HD7EwrPlpvd7iiQk0aNArMh5aapqn5puzvB8iyoMd1guX4Y84j010S_APc4PIEtIzrt5IQ472Sce84RsUTqWYMO_sUYe_uGwrvPGKIW1X2 =602x395)  
+   ![]({{ site.baseurl_root }}/uploads/7-19.jpg)
+8. 구매가 성공되었습니다! “Share” 클릭하여 친구들에거 공유하세요!
+
+   ![]({{ site.baseurl_root }}/uploads/8-1-1.jpg)  
+   ![]({{ site.baseurl_root }}/uploads/8-2-1.jpg)  
    (참여 방밥에 있는 모든 이미지는 참고용입니다)
