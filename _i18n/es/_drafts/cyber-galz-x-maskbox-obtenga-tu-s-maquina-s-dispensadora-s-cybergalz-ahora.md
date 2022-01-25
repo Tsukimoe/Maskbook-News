@@ -50,3 +50,30 @@ Notas:
 [**Como Participar**](https://realmasknetwork.notion.site/How-to-participate-in-a-MaskBox-sale-d0941687649a4ef7a38d71f23ecbe4da):
 
 [https://realmasknetwork.notion.site/How-to-participate-in-a-MaskBox-sale-d0941687649a4ef7a38d71f23ecbe4da](https://twitter.com/realMaskNetwork "https://twitter.com/realMaskNetwork")
+
+1. Asegúrate de [haber instalado la extensión Mask](https://realmasknetwork.notion.site/Installation-set-up-dd3329c7b3124108a8e992829a61a51e) y [de haber configurado la cartera que utilizará para la compra](https://realmasknetwork.notion.site/Setting-up-your-wallet-Support-MetaMask-and-WalletConnect-67c1ba13c5664eda9a9240f8e145366a);
+2. Visite [@realMaskNetwork](https://twitter.com/realMaskNetwork), el tuit se publicará en el momento en que comience la venta;
+3. Asegúrate de haber cambiado tu red a "Ethereum Mainnet";
+
+   ![]({{ site.baseurl_root }}/uploads/01.jpeg)
+4. Una vez iniciada la venta, haga clic en "Confirm Risk Warning" y lea la confirmación de riesgo correspondiente;
+
+   ![]({{ site.baseurl_root }}/uploads/02-2.jpeg)
+5. Haga clic en "Confirm" si ha leído y es consciente del riesgo;
+
+   ![]({{ site.baseurl_root }}/uploads/03-1.jpeg)
+6. Si puedes optar a la venta, puedes hacer clic en "Draw" para comprarlo;
+
+   \*Si no eres elegible para la venta, la página mostrará "You must hold at least 1 $MASK"
+
+   ![]({{ site.baseurl_root }}/uploads/04.jpeg)
+
+   ![]({{ site.baseurl_root }}/uploads/05.png)
+7. Confírmalo en la ventana emergente;
+
+   ![]({{ site.baseurl_root }}/uploads/06.jpeg)
+8. ¡La caja sorpresa se ha sorteado con éxito! Haz clic en "Share" y compártelo con tus amigos.
+
+   ![]({{ site.baseurl_root }}/uploads/09.jpeg)
+
+   ![]({{ site.baseurl_root }}/uploads/10.jpeg)
