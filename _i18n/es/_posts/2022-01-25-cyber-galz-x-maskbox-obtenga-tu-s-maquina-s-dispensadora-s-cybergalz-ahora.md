@@ -29,7 +29,7 @@ La venta de MaskBox venderá 100 máquinas dispensadoras de Cyber Galz Vending M
 
 Cada NFT de Galz tendrá 4 atributos fijos (piel, ojos, boca, modificación del cuerpo) y 6 atributos modificables (arma, ropa, fondo, pelo, máscara, una incógnita), de forma que cada NFT será único.
 
-![](https://lh5.googleusercontent.com/fpGHY_s6Eoru1gwJn2gWW91zVZAXnZF3SdSTnyOnRwgbEHzwdG8aRYxzGd3MM0DklAKBjooYBMzn20Ts5bkeAOJg_LiFV8_AgnKgYpeUTd-7Uv91ulakFNPjv_l7ZhxaJOD9j2lL =624x339)
+![]({{ site.baseurl_root }}/uploads/0_lfy5omnyi8hhkgbg.png)
 
 ¡Ven a disfrutar de las infinitas posibilidades de Cyber Galz!
 
