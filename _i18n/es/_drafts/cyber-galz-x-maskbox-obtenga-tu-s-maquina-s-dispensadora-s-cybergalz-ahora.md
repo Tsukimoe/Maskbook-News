@@ -10,7 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: 'Cyber Galz × MaskBox: ¡Obtenga Tu(s) Máquina(s) Dispensadora(s) CyberGalz
+title: 'Cyber Galz × MaskBox: ¡Obtenga Tu(s) Máquina(s) Dispensadora(s) de CyberGalz
   ahora!'
 description: ''
 type: ''
