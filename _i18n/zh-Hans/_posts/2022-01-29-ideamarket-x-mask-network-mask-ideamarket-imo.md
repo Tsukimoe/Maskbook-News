@@ -34,6 +34,6 @@ Ideamarket 的愿景和 Mask Network 的非常一致，即让所有人都拥有�
 
 如果钱包地址不在上面的名单中，则在持有 1 个市场活动 POAP/NFT* 的用户中，以填写表单的时间先后决定是否可以获得空投名额。Mask Network 将在 2022 年 2 月 1 日公布可以认领 Ideamarket 空投的名单。
 
-获得空投名额的用户，可以通过访问邮箱内收到的链接进行 $IMO 认领。
+获得空投名额的用户，可以在 2 月 2 日访问 ideamarket.io 下的 $IMO 标签页进行 $IMO 认领。
 
 \*市场活动 POAP 和 NFT 指以下系列：New Year Exclusive ([POAP](https://poap.gallery/event/21475) & [NFT](https://opensea.io/collection/masknetwork2022)); [MASK Christmas](https://poap.gallery/event/19976); [WEB3 WARRIORS](https://poap.gallery/event/16153); [Mask 2.0 Bug Bounty](https://poap.gallery/event/13039); [US 2020 Election NFT](https://opensea.io/collection/us-2020-election-nft)

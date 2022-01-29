@@ -33,6 +33,6 @@ Among those who have filled the Typeform, active members of the Mask Network com
 
 If the wallet address is not listed above, then the airdrop spots will be filled on a first-come-first-serve basis for those who hold one POAP/NFT* from Mask Network marketing events. Mask Network will publish the list of eligible users for Ideamarket airdrop on February 1st, 2022.
 
-Users who are eligible for the airdrop would need to visit the link sent by Ideamarket and claim it.
+Users who are eligible for the airdrop would need to visit the claim form will be on ideamarket.io under the $IMO tab, which will go live on February 2nd.
 
 \*POAP and NFT refers to the following collections: New Year Exclusive ([POAP](https://poap.gallery/event/21475) & [NFT](https://opensea.io/collection/masknetwork2022)); [MASK Christmas](https://poap.gallery/event/19976); [WEB3 WARRIORS](https://poap.gallery/event/16153); [Mask 2.0 Bug Bounty](https://poap.gallery/event/13039); [US 2020 Election NFT](https://opensea.io/collection/us-2020-election-nft)
