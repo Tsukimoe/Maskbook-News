@@ -31,7 +31,7 @@ Para poder optar al airdrop en primer lugar, los usuarios deben leer [este formu
 
 Entre los que hayan rellenado el formulario, los miembros activos de la comunidad de Mask Network (que tengan al menos 2 POAP(s)/NFT(s) de eventos de marketing) y los primeros constructores de Mask Network podrán optar al airdrop. Consulte la lista de miembros activos de la comunidad y primeros constructores aquí.
 
-Si la dirección de la cartera no aparece en la lista anterior, las plazas de airdrop se cubrirán por orden de llegada. Mask Network publicará la lista de usuarios elegibles para el airdrop de Ideamarket el 1 de febrero de 2022.
+Si la dirección de la cartera no aparece en la lista anterior, las plazas de Airdrop se cubrirán por orden de llegada para aquellos que tengan un POAP/NFT de los eventos comerciales de Mask Network. Mask Network publicará la lista de usuarios elegibles para el airdrop de Ideamarket el 1 de febrero de 2022.
 
 Los usuarios que puedan optar al airdrop tendrán que visitar el enlace enviado por Ideamarket y reclamarlo.
 
