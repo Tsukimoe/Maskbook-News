@@ -34,9 +34,7 @@ Ideamarket은 또한 Mask Network를 계속 지지하고 있는 커뮤니티 멤
 
 POAP/NFT 2개 이상 보유)와 Mask Network의 초기 기여자를 대상으로 진행합니다. [여기에서](https://docs.google.com/spreadsheets/d/1YF7fuGP6n39MzsAz8EyA8vwXBbFx4eowEut7jVnjvkI/edit#gid=0) 에어드랍의 화이트리스트를 확인할 수 있습니다:
 
-월렛 주소가 리스트에 포함되지 않는 경우 Mask Network 마케팅 이벤트 POAP/NFT 1개를 보유하고 있는 유저는 [Typeform](https://yrbqj272q2e.typeform.com/to/LgJZc25q) 제출시간에 따라 추가 에어드랍 화이트리스트의 자격은 선착순으로 선정됩니다. Mask Network는 2022년 2월
-
-1일에 Ideamarket 에어드랍 전체 대상자의 리스트을 공개할 예정입니다.
+월렛 주소가 리스트에 포함되지 않는 경우 Mask Network 마케팅 이벤트 POAP/NFT 1개를 보유하고 있는 유저는 [Typeform](https://yrbqj272q2e.typeform.com/to/LgJZc25q) 제출시간에 따라 추가 에어드랍 화이트리스트의 자격은 선착순으로 선정됩니다. Mask Network는 2022년 2 월 1 일에 Ideamarket 에어드랍 전체 대상자의 리스트을 공개할 예정입니다.
 
 에어드랍 화이트리스트의 자격을 받는 유저는 Ideamarket의 [홈폐이지](https://ideamarket.io/)를 방문하여 $IMO 탭(2월 2일에 오픈됨)에서 에어드랍을 클레임할 수 있습니다.
 
