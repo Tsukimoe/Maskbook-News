@@ -35,4 +35,4 @@ Si la dirección de la cartera no aparece en la lista anterior, las plazas de Ai
 
 Los usuarios que puedan optar al airdrop tendrán que visitar el enlace enviado por Ideamarket y reclamarlo.
 
-**Sobre Ideamarket**
+\*POAP y NFT se refieren a las siguientes colecciones: New Year Exclusive ([POAP](https://poap.gallery/event/21475) & [NFT](https://opensea.io/collection/masknetwork2022)); [MASK Christmas](https://poap.gallery/event/19976); [WEB3 WARRIORS](https://poap.gallery/event/16153); [Mask 2.0 Bug Bounty](https://poap.gallery/event/13039); [US 2020 Election NFT](https://opensea.io/collection/us-2020-election-nft)
