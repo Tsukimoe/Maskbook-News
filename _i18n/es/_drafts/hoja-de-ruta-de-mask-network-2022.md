@@ -28,6 +28,7 @@ Hay tres principios básicos que creemos que son sumamente importantes para cons
 2. Invertir en el futuro: Para que tanta gente se incorpore a Web 3.0 es necesario que surja un flujo continuo de "killer apps". Queremos crear un entorno abierto y de apoyo para el descubrimiento, la potenciación y la generación de tráfico a las personas que crearán estas aplicaciones.
 3. Garantizar la privacidad del usuario, la igualdad de oportunidades, la equidad en el acceso y la libertad de interpretación.
 
+  
 Forjamos Mask como el puente global que conectará Web2 y Web3. Es fundamentalmente un bien público al igual que Ethereum. Por lo tanto, el equipo ha decidido orientar el desarrollo futuro de la capa de Mask hacia un modelo descentralizado similar al de Ethereum. El enfoque del equipo debe centrarse únicamente en el desarrollo continuo de las funcionales básicas de Mask para cumplir mejor su misión principal, financiando a los equipos que tengan grandes ideas que puedan transformarse en potenciales dapps punteras, y mejorando las experiencias de los desarrolladores, los usuarios y cualquier persona que quiera utilizar Mask para conectar a usuarios con sus proyectos sin cesar.
 
 A través de la provisión de fondos, hemos apoyado varios proyectos innovadores de Web3 que cuentan con más de 700k usuarios entre ellos. También hemos apoyado a Transak, una solución sin KYC del intercambio del dinero fíat a criptomonedas que permite la compra directa de tokens a través de tarjeta de crédito para más de 30 monedas fiduciarias diferentes, y ya se han integrado a la pila central de Mask para que los usuarios puedan comprar tokens sin ningún obstáculo en Twitter.
@@ -37,3 +38,32 @@ También somos cadena agnóstica y hemos estado integrando otras cadenas como BS
 Se ocurre una adopción masiva cuando Mask tiene algo que resulta atractivo para las personas normales que no es DeFi degen se quede. Creemos que la adopción masiva de criptomonedas puede lograrse más convenientemente a través de NFT, que tienen una fuerte afinidad con la monetización de la propiedad intelectual y la creación de contenido multimedia, como los juegos, el arte y el entretenimiento. Estas formas de contenido multisensorial tienen un encanto masivo mucho más amplio que el contenido DeFi o la tecnología blockchain. Por lo tanto, el apoyo y la atracción de desarrolladores con una variedad de ideas y antecedentes se vuelven cruciales para el éxito continuo de Mask.
 
 Lo más importante es que estamos construyendo una versión mejor de Internet. No estamos derribando los muros de Web2, pero nos esforzamos por ayudarla a evolucionar. Queremos garantizar la facilidad de uso, y también crear un bien público que respete la privacidad de las personas, proteja la seguridad de sus datos y fondos, y devuelva la libertad de interpretación a los usuarios típicos de internet.
+
+**Hoja de Ruta de 2022**
+
+Lo que hemos hecho hasta ahora
+
+* Mask Network en el navegador web y en el dispositivo iOS
+* Red Packet (ahora renombrado como Lucky Drop)
+* Transmisión de archivos
+* ITO (Oferta Inicial de Twitter)
+* MaskBox (Oferta inicial de NFT)
+* Asociaciones estratégicas con proyectos de ecosistemas
+* Integración multicadena (ahora soporta Ethereum mainnet, BNB Chain, Polygon, Arbitrum, xDai/Gnosis, Fantom, Solana, Avalanche, Aurora, Flow)
+* Votación y Foro y exploración de un modelo de gobernanza eficiente
+
+  
+Planes de 2022
+
+* Integración de Instagram (Web3 tab, NFT Avatar, etc.)
+* Optimización de Facebook & Minds.com
+* Colaborar con varias partes para mejorar y seguir descubriendo el gráfico social.
+* Lanzamiento de Next.ID, un sistema de identificación descentralizada desarrollado por Mask Network
+* Lanzamiento del fondo del ecosistema Mask Network con inversores estratégicos (se revelará pronto)
+* Integración de dapps a través de community bounties, para apoyar el crecimiento del ecosistema de Mask
+* Añadir más soporte de cadena
+
+Nuestra misión a largo plazo:
+
+* Cómo funciona el mecanismo de MaskDAO: la co-creación de MaskDAO, donde cualquiera que sea o quiera convertirse en un fuerte poseedor o un fuerte contribuyente de Mask puede participar y organizarse en una comunidad autogestionada y altamente eficiente de construcción y comercio de Mask.
+* Inversión estratégica con proyectos en campos relevantes - SocialFi, DeFi, Metaverse, GameFi, etc. Nuestro fondo de inversión estratégica es ahora uno de los mayores inversores en el espacio social Web3, mejorando en gran medida el ecosistema de Mask Network.
