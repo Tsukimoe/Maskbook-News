@@ -12,6 +12,9 @@ title: Mask Network invests in Convergence to join hands on Initial Twitter Offe
 description: ''
 type: ''
 image: "{{ site.baseurl_root }}/uploads/convergence.png"
+ko: ''
+es: ''
+de: ''
 
 ---
 ![]({{ site.baseurl_root }}/uploads/convergence.png)
