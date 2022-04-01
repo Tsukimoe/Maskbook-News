@@ -63,10 +63,7 @@ Por lo tanto, después de transformar el mecanismo de reparto de beneficios, la 
 Mystiko.Network es la capa base de Web 3.0 con conectividad y confidencialidad, aprovechando la prueba de conocimiento cero con la tecnología líder de la industria "zk de zk". **Mystiko.Network está construyendo la última infraestructura universal de privacidad web3 a través de PaaS (Privacidad como un SDK)**, permitiendo a cualquier parte interesada en las redes sociales activar fácilmente la privacidad de las transacciones:
 
 * Para blockchains: Cualquier capa 1/2 de blockchain podría utilizar Mystiko.Network como capa de privacidad, haciendo que sus transacciones en la red principal sean confidenciales tanto dentro de la misma cadena como desde/hacia otras cadenas.
-* Para los puentes: Cualquier puente entre cadenas podría utilizar Mystiko.Network para añadir funciones de puente de privacidad, haciendo que las transacciones entre cadenas sean totalmente privadas. La primera aplicación de puente de privacidad construida sobre Mystiko.Network ya está en marcha.
-
-[https://testnet.wallet.mystiko.network/](https://testnet.wallet.mystiko.network/ "https://testnet.wallet.mystiko.network/")
-
+* Para los puentes: Cualquier puente entre cadenas podría utilizar Mystiko.Network para añadir funciones de puente de privacidad, haciendo que las transacciones entre cadenas sean totalmente privadas. La primera aplicación de puente de privacidad construida sobre Mystiko.Network ya está en marcha. ([https://testnet.wallet.mystiko.network/](https://testnet.wallet.mystiko.network/ "https://testnet.wallet.mystiko.network/"))
 * Para las carteras: Cualquier cartera puede utilizar Mystiko.Network para añadir funciones de gestión de activos privados y transacciones privadas. La primera aplicación de cartera privada construida sobre Mystiko.Network ya está en marcha con MetaMask.
 * Para Dapps: Cualquier Dapps podría utilizar Mystiko.Network para proporcionar a los usuarios funciones de privacidad financiera en la cadena, por ejemplo, DEX privadas y dapps de pagos criptográficos privados en la cadena que protejan el historial de ingresos de los receptores/comerciantes. Propinas privadas para SocialFi Dapp para asegurar la privacidad de los creadores y seguidores.
 
