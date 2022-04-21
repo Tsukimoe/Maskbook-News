@@ -8,11 +8,11 @@
   <meta name="twitter:description" content="{{ page.description }}" />
 {% endif %}
 
-{% if page.image %}
+{% if page.image == nil or page.image == empty %}
+  <meta name="twitter:image" content="https://mask.io/apple-touch-icon.png" />
+{% else %}
   {% assign image_url = page.image | replace: "{{ site.baseurl_root }}", "" %}
   <meta name="twitter:image" content="{{ site.domain }}{{ image_url }}">
-{% else %}
-  <meta name="twitter:image" content="https://mask.io/apple-touch-icon.png" />
 {% endif %}
 
 {% if page.layout == 'default' %}
