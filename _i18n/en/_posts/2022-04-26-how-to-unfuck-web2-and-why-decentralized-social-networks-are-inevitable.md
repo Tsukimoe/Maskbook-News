@@ -85,3 +85,5 @@ From new financial systems to new cultural symbols, then to the organization of 
 > _“I would choose freedom over comfort every time.”_
 >
 > _― George R.R. Martin_
+
+**Authors**: Suji Yan ([@suji_yan](http://twitter.com/suji_yan)); Hehe Shen ([@hannah_h2s](http://twitter.com/hannah_h2s)); Hana-chan ([@hanachanweb3](http://twitter.com/hanachanweb3))
