@@ -51,3 +51,38 @@ Tanto en los ecosistemas tecnológicos de Web2 de China como en los de EE.UU., s
 A medida que los desarrolladores y los ciberciudadanos en general se despiertan para reclamar su ciberciudadanía, auspiciados por una economía cripto-nativa descentralizada que está madurando y un [consenso ideológico cada vez más amplio](https://www.wired.com/story/you-yes-you-would-be-a-better-owner-for-twitter-than-elon-musk/) para desafiar a la red social centralizada, es el momento de la disrupción.
 
 Vemos **dos caminos** a seguir a la luz del fracaso de las plataformas Web2 como proveedores de foros públicos:
+
+![]({{ site.baseurl_root }}/uploads/disrupt.jpeg)
+
+1. **Los protocolos y aplicaciones nativos de Web3 superan a los titulares.** Mediante el uso de la criptografía y la cadena de bloques, estamos asistiendo al renacimiento del canal RSS con una mayor usabilidad construida sobre RSS3 y a cómo los usuarios pueden comunicarse y realizar transacciones crípticas en Twitter utilizando capas de Web3 como Mask Network. Los gráficos sociales y las interacciones sociales ya no están monopolizados por los jardines amurallados, ya que vemos un aumento de las aplicaciones descentralizadas construidas sobre el protocolo Lens de código abierto, RSS3 y CyberConnect. Nuestra visión de las redes sociales de Web 3 incorporará la ética de gobernanza descentralizada del protocolo de Web 1 con los elementos sociales y de usabilidad mejorados que nos gustan de Web 2.
+2. **Los actuales gigantes de las redes sociales desharán su pasado, se replantearán y reestructurarán los modelos de negocio y las relaciones con sus usuarios**. Vemos que redes de Web2 como Twitter y Telegram son los activistas en este sentido. [Mientras Elon Musk cierra un acuerdo de 44.000 millones de dólares por Twitter y se compromete a cambiar Twitter](https://www.reuters.com/technology/exclusive-twitter-set-accept-musks-best-final-offer-sources-2022-04-25/), aquí es un experimento de pensamiento salvaje: imagina que el valor comercial futuro de Twitter no se mide por su cuenta de resultados como corporación privada, sino como el ecosistema de red social más robusto impulsado por los protocolos de Web3 y que permite que más protocolos accedan a su API abierta. Telegram se está adelantando a la curva y ya ha dado la bienvenida a docenas de aplicaciones de terceros que están creciendo por encima. En este caso, Twitter y Telegram se acercarían a ser proveedores de infraestructura de foros públicos abiertos e imparciales, tal y como se pretendía que fueran las redes sociales. De hecho, una gran parte de los debates actuales relacionados con Web3 y las nuevas aplicaciones descentralizadas tienen lugar en Twitter. Independientemente de quién sea el propietario de Twitter en la próxima década, esperamos que su(s) propietario(s) pueda(n) reconocer esta tendencia de Twitter y considerar su potencial como red social descentralizada y proveedor de ecosistemas.
+
+##### **La aparición de redes sociales descentralizadas es inevitable.**
+
+En la era de Web3, las redes sociales siguen desempeñando el papel de mercado de ideas y foros públicos. La revolución de Web3 es cultural, financiera y social, y el impacto de esta revolución impregnará todos los rincones del ciberespacio.
+
+Desde este punto de vista, las condiciones previas de la revolución están dadas:
+
+* Una tesorería independiente (BTC, ETH)
+* Un sistema financiero propio (Defi)
+* Alianza de arte y cultura independiente (NFT)
+* Nuevas formas de colaboración humana y de organización de la mano de obra (DAOs)
+
+![]({{ site.baseurl_root }}/uploads/graph.png)
+
+La pieza del rompecabezas que falta es una nueva infraestructura y ecosistema para que los ciberciudadanos se reúnan y participen en el discurso público. Hoy en día, la mayoría de la gente utiliza en gran medida la pila tecnológica de comunicación de Web2 (Discord, Twitter, Telegram, Google) para hacerlo, pero las diversas restricciones de las redes sociales de Web2 inevitablemente harán que los primeros adoptantes de Web3 se sientan restringidos y reclamen cambios.
+
+Mientras tanto, no queremos renunciar al valor y la importancia de los medios sociales de Web2. El efecto de plataforma de las redes sociales de Web2 puede amplificar las voces y movilizar acciones masivas. La revolución de Web3 se está propagando como un incendio gracias a ese efecto. Los ciudadanos digitales también se han acostumbrado a utilizar las redes sociales para compartir y recibir información a diario, estableciendo los medios sociales como una infraestructura para el funcionamiento de una cibersociedad. El objetivo de las redes sociales de Web3 no es construir una réplica en blockchain de los gigantes de Web2, sino utilizar diseños y tecnologías innovadoras para contrarrestar el comportamiento centralizado y monopolístico de Web2, para recuperar el derecho a la información y las identidades digitales de las plataformas a los internautas.
+
+Desde los nuevos sistemas financieros hasta los nuevos símbolos culturales, pasando por la organización de las fuerzas laborales, la revolución de Web3 está aquí. Estas condiciones previas construyen la búsqueda de un foro público y un mercado de información abiertos, transparentes e imparciales, libres de interferencias políticas, para los ciudadanos de Web3 que anhelan la libertad y la autonomía. Ahora, la última etapa de esta revolución son las redes sociales descentralizadas.
+
+> “Es mucho más difícil que los participantes en los sistemas descentralizados se confabulen para actuar de forma que les beneficie a costa de otros participantes.”
+>
+> ― Vitalik Buterin, 2017
+>
+> “Elegiría yo siempre la libertad antes que la comodidad.”
+>
+> ― George R.R. Martin
+
+  
+**Autores**: Suji Yan ([@suji_yan](http://twitter.com/suji_yan)); Hehe Shen ([@hannah_h2s](http://twitter.com/hannah_h2s)); Hana-chan ([@hanachanweb3](http://twitter.com/hanachanweb3))
