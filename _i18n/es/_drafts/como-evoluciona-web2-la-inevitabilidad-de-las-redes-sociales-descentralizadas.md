@@ -10,7 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: "¿Cómo evoluciona Web2? La inevitabilidad de las redes sociales descentralizadas."
+title: "¿Cómo se evoluciona Web2? La inevitabilidad de las redes sociales descentralizadas."
 description: ''
 type: ''
 image: ''
@@ -48,6 +48,6 @@ La red social de Web2 es similar a cualquier otra forma intermedia provocada por
 
 Tanto en los ecosistemas tecnológicos de Web2 de China como en los de EE.UU., se ha intentado llevar a cabo reformas desde dentro, pero rara vez han tenido éxito. Hemos visto [la caída del feed RSS](https://www.vice.com/en/article/a3mm4z/the-rise-and-demise-of-rss) y cómo Facebook suprimió Friendly Social Browser [en nombre de la privacidad](https://www.eff.org/deeplinks/2020/11/once-again-facebook-using-privacy-sword-kill-independent-innovation#:\~:text=Friendly%20is%20a%20web%20browser%2C%20so%20it%20is%20our%20understanding,%E2%80%9D%20Facebook%3B%20Facebook%20users%20do.) mientras manejaba sus datos de forma inapropiada con [Cambridge Analytica](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election). En China, los desarrolladores de extensiones de terceros sobre el QQ de Tencent se enfrentaron incluso a penas de cárcel. Estas son sólo la punta del iceberg de las innovaciones sofocadas de los desarrolladores de terceros en las plataformas centralizadas. Fundamentalmente, las redes sociales de Web2 no pueden conciliar su necesidad de obtener beneficios y reducir los riesgos normativos con los valores y el impacto social que crean las nuevas aplicaciones construidas por encima que están fuera de su jurisdicción comercial. Eligieron la supervivencia como entidad comercial competitiva por encima de lo que podría ser beneficioso para el ecosistema en general.
 
-A medida que los desarrolladores y los internautas en general se despiertan para reclamar su ciberciudadanía, auspiciados por una economía cripto-nativa descentralizada que está madurando y un [consenso ideológico cada vez más amplio](https://www.wired.com/story/you-yes-you-would-be-a-better-owner-for-twitter-than-elon-musk/) para desafiar a la red social centralizada, es el momento de la disrupción.
+A medida que los desarrolladores y los ciberciudadanos en general se despiertan para reclamar su ciberciudadanía, auspiciados por una economía cripto-nativa descentralizada que está madurando y un [consenso ideológico cada vez más amplio](https://www.wired.com/story/you-yes-you-would-be-a-better-owner-for-twitter-than-elon-musk/) para desafiar a la red social centralizada, es el momento de la disrupción.
 
 Vemos **dos caminos** a seguir a la luz del fracaso de las plataformas Web2 como proveedores de foros públicos:
