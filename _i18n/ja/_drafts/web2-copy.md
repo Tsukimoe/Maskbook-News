@@ -10,7 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: Web2から解放されるには？そして、なぜ分散型ソーシャルネットワークが必然なのか。-(copy)
+title: Web2から解放されるには？そして、なぜ分散型ソーシャルネットワークが必然なのか。
 description: ''
 type: ''
 image: ''
