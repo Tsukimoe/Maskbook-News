@@ -16,3 +16,4 @@ type: ''
 image: ''
 
 ---
+![]({{ site.baseurl_root }}/uploads/hard-yaka.png)
