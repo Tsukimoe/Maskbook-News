@@ -16,6 +16,8 @@ type: ''
 image: ''
 
 ---
+![]({{ site.baseurl_root }}/uploads/img_2909.PNG)
+
 Next.ID는 탈중앙화 신분 제공 서비스(Decentralized-Identity-as-a-Service, DIaaS)로 Mask Network와 협업하기 시작합니다. Mask Network의 가장 중요한 목표는 모든 인터넷 사용자들이 웹3에 대한 접근성과 이해를 동시에 할 수 있게하는 브릿지가 되는 것입니다. 이번의 협업은 이 목표를 향해 큰 걸음을 걷었습니다.
 
 **Next.ID는 무엇일까?**
