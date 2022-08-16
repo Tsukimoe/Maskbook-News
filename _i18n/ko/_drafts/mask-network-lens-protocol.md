@@ -39,6 +39,8 @@ Lens Protocol은 이번의 협업의 시작으로 3000 개 정도의 Lens 핸들
 
 ![]({{ site.baseurl_root }}/uploads/lens-02.jpeg)
 
+_적격자가_ [_https://claim.lens.xyz/_](https://claim.lens.xyz/ "https://claim.lens.xyz/") _에서 수령할 수 있습니다._
+
 기존 액티브 멤버 외에도 Mask Network는 Mask Network 커뮤니티의 다른 멤버들을 위해 500개의 렌즈 핸들을 증정할 예정입니다. Mask Network로 계정을 점증된 멤버들 중 랜덤으로 선택하고 공식 트위터 @realMaskNetwork에서 발표될 예정입니다.
 
 **Lens Protocol**
