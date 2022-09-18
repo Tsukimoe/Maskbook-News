@@ -12,6 +12,10 @@ location: Shanghai
 type: ''
 image: ''
 ja: ''
+description: ''
+ko: ''
+es: ''
+de: ''
 
 ---
 In early 2020, Mask Network launched a special feature called "Red Packet", which allowed users to claim and distribute cryptocurrencies on Twitter. This is the first time you can send decentralized cryptocurrencies on centralized social media platforms.
@@ -26,9 +30,7 @@ With Maskbook, it has never been easier for creators of Gitcoin Grants to share 
 
 \- How to use the Gitcoin Plugin on Maskbook?
 
-First, you need to install Maskbook. Click here to download:  maskbook.com.
-
-![]({{ site.baseurl_root }}/uploads/1-1.png)
+First, you need to install Mask Network. Visit [mask.io]() to download.
 
 🌟 For Creators of Gitcoin Grants
 
