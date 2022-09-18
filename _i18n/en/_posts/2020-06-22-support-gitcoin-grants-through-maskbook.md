@@ -30,7 +30,7 @@ With Maskbook, it has never been easier for creators of Gitcoin Grants to share 
 
 \- How to use the Gitcoin Plugin on Maskbook?
 
-First, you need to install Mask Network. Visit [mask.io]() to download.
+First, you need to install Mask Network. Visit [mask.io](mask.io) to download.
 
 🌟 For Creators of Gitcoin Grants
 
