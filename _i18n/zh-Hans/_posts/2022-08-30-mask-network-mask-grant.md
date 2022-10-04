@@ -118,7 +118,7 @@ Mask Network 将继续为接下来的 GR15 等赞助更多的 Gitcoin Grant。
 
 Mask Network生态正在寻求扩展并吸引更多创新项目。查看此表以选择最适合您的计划！
 
-![Image](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDYqyBxhQLGhOehpiaTO8TaKyzoU198B9juPrR0UP40TEgk3SUcqWBnZDPj6RAfYPWaGCTQriciaiaQHQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://vip2.loli.io/2022/10/04/h59lLSGrngxcwZd.png)
 
 \- Mask Grant 申请链接：[https://forms.gle/WxCfhdAyBne6V46D7](https://forms.gle/WxCfhdAyBne6V46D7 "https://forms.gle/WxCfhdAyBne6V46D7")
 
