@@ -4,7 +4,7 @@
 <div class="sharing-icons">
   {% assign post_link = page.url | absolute_url | prepend: site.env.URL | url_encode %}
   {% assign post_title = page.title | url_encode %}
-  <a href="https://twitter.com/intent/tweet?text={{ post_title }}&amp;url={{ post_link }}" target="_blank">
+  <a href="https://twitter.com/intent/tweet?text={{ post_title }}&amp;url=https://news.mask.io{{ post_link }}" target="_blank">
     <i class="fa fa-twitter" aria-hidden="true"></i>
   </a>
 
