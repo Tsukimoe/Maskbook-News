@@ -1,0 +1,395 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>News — The Portal to the New, Open Internet.</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8" />
+
+  <!-- For Google -->
+  <meta
+    name="description"
+    content="The Natural Law of Privacy, Now Being Enforced."
+  />
+  <meta name="keywords" content="Privacy,Mask Network" />
+  <meta name="author" content="Project Mask Network" />
+  <meta name="application-name" content="Mask Network" />
+
+  <!-- For Facebook -->
+  <meta property="og:title" content="Mask — The Portal to the New, Open Internet." />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:image"
+    content="https://mask.io/img/fb-share-banner.png"
+  />
+  <meta property="og:url" content="https://mask.io/" />
+  <meta
+    property="og:description"
+    content="The Natural Law of Privacy, Now Being Enforced."
+  />
+  <meta property="fb:app_id" content="321539018508290" />
+
+  <!-- For Twitter -->
+  
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="回顾｜DID 是钱包吗？探讨 SBT 接入场景、开发者和用户为啥买账" />
+  <meta name="twitter:description" content="" />
+
+
+
+  <meta name="twitter:image" content="https://mask.io/apple-touch-icon.png" />
+
+
+
+  <meta name="twitter:image:alt" content="回顾｜DID 是钱包吗？探讨 SBT 接入场景、开发者和用户为啥买账" />
+
+
+<meta name="twitter:url" content="/zh-Hans/2022/09/16/did-sbt" />
+
+  <link
+    rel="shortcut icon"
+    href="/assets/img/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="/assets/img/apple-touch-icon.png"
+  />
+
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <link rel="stylesheet" href="/assets/css/syntax.css" />
+
+  <!-- Use Atom -->
+  <link type="application/atom+xml" rel="alternate" href="/zh-Hans/feed.xml" title="News" />
+  
+  <!-- Use RSS-2.0 -->
+  <link href="/rss-feed.xml" type="application/rss+xml" rel="alternate" title="News | The Portal to the New, Open Internet."/>
+
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400"
+  />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Source+Code+Pro"
+  />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Quattrocento+Sans"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+  />
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WWRTN8P');</script>
+  <!-- End Google Tag Manager -->
+
+  <!--
+  <script
+    type="text/javascript"
+    async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
+  >
+    MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+      });
+  </script> -->
+
+  <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-112060364-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+  <!-- Use Jekyll SEO plugin -->
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>回顾｜DID 是钱包吗？探讨 SBT 接入场景、开发者和用户为啥买账 | News</title>
+<meta name="generator" content="Jekyll v3.6.3" />
+<meta property="og:title" content="回顾｜DID 是钱包吗？探讨 SBT 接入场景、开发者和用户为啥买账" />
+<meta property="og:locale" content="zh_Hans" />
+<meta name="description" content="The Portal to the New, Open Internet." />
+<meta property="og:description" content="The Portal to the New, Open Internet." />
+<meta property="og:site_name" content="News" />
+<meta property="og:image" content="/zh-Hans" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-09-16T00:00:00+00:00" />
+<script type="application/ld+json">
+{"description":"The Portal to the New, Open Internet.","@type":"BlogPosting","url":"/zh-Hans/2022/09/16/did-sbt","image":"/zh-Hans","headline":"回顾｜DID 是钱包吗？探讨 SBT 接入场景、开发者和用户为啥买账","dateModified":"2022-09-16T00:00:00+00:00","datePublished":"2022-09-16T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"/zh-Hans/2022/09/16/did-sbt"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+
+<body>
+
+  <div class="container">
+    <header class="masthead">
+  <h3 class="masthead-title">
+    <a href="/zh-Hans">
+      <img
+        class="masthead-logo"
+        src="/assets/img/logo.svg"
+        width="125"
+      />
+    </a>
+    <small class="masthead-subtitle">The Portal to the New, Open Internet.</small>
+
+    
+  </h3>
+  
+  
+
+</header>
+
+
+    <div class="post-container">
+      
+  <h1>
+    回顾｜DID 是钱包吗？探讨 SBT 接入场景、开发者和用户为啥买账
+  </h1>
+
+
+<span class="post-date">
+  
+
+
+
+2022-09-16
+</span>
+
+<p><img src="/uploads/640-1.png" alt="" /></p>
+
+<p>Next.ID 于 2022 年 9 月 8 日晚 8 点开展了项目的第二次 Twitter Space，本次活动由 Next.ID 主办，Web3Go Labs 协办，嘉宾有来自 HashKey Capital 的 JZ，王建硕，Coin Summer 研究员夏禾，和 LXDAO 核心成员 Bruce。</p>
+
+<p>节目中，嘉宾们共同探讨、分享了：对于 DID（去中心化身份，decentralized identity）以及 SBT（灵魂绑定通证，soul-bound token）的理解、它们之间的关系，已经看到哪些在赛道上构建比较实际的案例或者认可的方向，DID 与 SBT 落地过程中碰到的难题等。</p>
+
+<p>点击 “阅读原文” 或访问链接收听回放：<a href="https://www.bilibili.com/video/BV1WW4y1B7U4" title="https://www.bilibili.com/video/BV1WW4y1B7U4">https://www.bilibili.com/video/BV1WW4y1B7U4</a></p>
+
+<p><strong>目前你对 DID 是怎么理解的？DID 已有应用场景有哪些？是否已有成熟 App 可以使用、体验？</strong></p>
+
+<p>LXDAO Bruce：DID 首先是 ID，ID 在现实世界可以类比：身份证、学生证等，虚拟世界有推特、微博账号等。DID 则是去中心化的 ID，没有签发、管理的机构，不会有被删除、封号的风险。现实中最接近的是护照，对个人身份进行证明，有一个统一的认可标准。</p>
+
+<p>DID 其实已经有很多应用了。聚焦到以太坊上，以太坊上的 DID 可以认为就是地址。在 ENS 上可以绑定邮箱、地址等，如不考虑其它公链，我认为在以太坊上钱包就是一个 DID。在以太坊基金会上，他们也是这么介绍的。</p>
+
+<p>HashKey Capital JZ：DID 直到最近一年才慢慢起来，早期大家觉得是很好的概念，但没有落地场景。去年以太坊域名火热了一把之后，大家觉得 DID 会产生一些价值并逐渐注重人们身份的价值。每个人身份不同的体现可以透过通证、机制体现出来。</p>
+
+<p>现今 Web3 用户量仍较小，对于确定一个身份是真正的人还是机器人（bot），是很有用的。如何把价值确定下来，有可能通过 DID、SBT 实现，只是暂时没有确定的方向。</p>
+
+<p><strong>不能被删号的场景，互联网从第一天开始，如果用户选择自建网站，已经可以免去审查（censorship）。因为用户体验，Web2 放弃了这个做法。在 DID 的世界里，我们如何可以放弃建立在一个大的平台上搭建而是完全自主？（王建硕）</strong></p>
+
+<p>LXDAO Bruce：不被删号只是 DID 的一个特性，假设定义全网是以太坊的话，DID 是全网唯一的、通用的、用户可以完全掌控的 ID。用户可以通过 DID 连接到很多支持它的产品，这些数据只要在链上，都属于用户，不会被删除，或未被授权去产生交互，这是与传统账号最大的区别。传统账号许多平台之间还没有实现互通。</p>
+
+<p><strong>对 DID 的定义是什么？现在看到 3 种定义，一是 W3C 提出的 decentralized identifier（去中心化身份标识符），二是 decentralized infrastructure（去中心化基础设施），三是纯数学上的 ID，只需私钥就能生成公钥，不需任何软件和提前告知。（王建硕）</strong></p>
+
+<p>Next.ID 段少：我认可 Bruce 提到的护照，DID 抽象理解是一个串，背后身份本身涉及到两个问题：1. 这个串由谁定义；2. 拿到串之后的交互过程。</p>
+
+<p>回到 Web2，类似护照之类的证件是由国家颁发的，用户可以使用这个“串”证明身份，资产不跟用户名字绑定，资产是跟身份证号绑定，只有通过身份证号才能拿到资产，对资产进行确权。粗暴地理解，资产的确权来自身份证号（或者说私钥），对外界来说是用户的名字。在链上或者以太坊上就是用户的地址。W3C 提到的标准是一个大一统的标准，Next.ID 天然兼容 W3C。</p>
+
+<p>目前以太坊上的钱包，从目前跟大家讨论得出，钱包并不等同于 DID。钱包只是早期出现的产品形态，大家把它当成某种 DID 授权身份。现实世界中，用户的身份证丢了，资产不会随之消失，中心化的认证机构依然存在。在 Web3，当把公私钥的身份直接等同于金融账户时，如果私钥丢了，资产就没了。对 Web3 用户来说风险很大，以太坊社区已经认识到这个问题，他们正在发展智能合约钱包，对账户进行抽象，将身份层与金融层区分，即便资产丢失，仍能通过 social recovery（社交恢复）或者通过个人持有的一些秘密（等同于私钥），比如一些身份认证问题，来恢复账号的控制权，实现用新的私钥来控制资产，以便解决这个问题。目前 DID 等同钱包的认知是业界发展遗留下来的问题。</p>
+
+<p><strong>你对 SBT 是怎么理解的？SBT 是概念还是已经落地了？SBT 跟 DID 是互相可替代的吗？</strong></p>
+
+<p>HashKey Capital JZ：SBT 算作 DID 的一种，DID 是一个更大的集合，SBT 相对细分。一个人可能有很多 DID，但根据现有设计，一个人只能有一个 SBT，人的很多特性能够通过不同 DID 活动在 SBT 上体现。由于涉及用户隐私，用户不一定会选择持有 SBT。</p>
+
+<p>SBT 研究员 夏禾：关于 SBT 提案较多，约 6–7 个，暂没有一个是通过共识的。SBT 本身名称可帮助我们更好理解，针对链上的傀儡账户与真实账户，能更好分辨账户真实性。</p>
+
+<p>两个特征帮助 SBT 弥补区块链之前空白，一是它是由任何主体发起的，第二是它不可转让和交易。给了用户一个通道能把主观和感性的判断带到链上，而不是链上冰冷数字、交互记录。链上的数据是客观，链下的数据相对主观。针对“女巫攻击”，很多项目在用 Web2 的方式，比如填表格、进 Discord 验证身份等，而有了 SBT，可以帮助更好地筛选优质用户。</p>
+
+<p>LXDAO Bruce：SBT 在未来会很重要，它能真正塑造身份画像。token（通证）可以类比现实世界的资产，一个人可以拿着一台车宣称这是自己的资产，SBT 可以证明用户的忠诚性，比如用户积极参与该车品牌的活动，具备凭证，这些信息是不可转让的，塑造了用户忠诚用户的画像。随之产生的应用比不可少，需要通过用户画像来了解一个人的身份，便于应用到面试等场景。</p>
+
+<p><strong>SBT 用什么的方式来确认一个人只能有一个账号？如何与 soul（灵魂）一一对应？（王建硕）</strong></p>
+
+<p>SBT 研究员 夏禾：SBT 没有实现一一对应。需要一套新的 SBT 标准，实现原生的、不可转让的。</p>
+
+<p>理论上，当 SBT 的数据源都来自链上时，链上数据公开、透明、不可篡改，让我们可以完成清晰的判定账号之间的相似度，评分链上行为的真实性。</p>
+
+<p>LXDAO Bruce：SBT 是 Vitalik 今年 1 月份左右发表博客提到，来自于他玩魔兽争霸的灵感。游戏中的道具非常稀有，需要绑定到魔兽争霸账号，在游戏体系内不可交易、转让。今年 5 月份他与微软研究员合作产出了 SBT 论文，描述、定义相对清晰。论文中对于 SBT 定义，没有提到 DID 概念，SBT 概念上对应 soul。灵魂类比现实世界的一个人，一个人的表现来自于过去的经历。可以用学位证、驾照类比 SBT，此类文件规定规则是只能有一个，有法律等的保障。SBT 本身价值来自不可转让、不可买卖。</p>
+
+<p>Next.ID 段少：Next.ID 项目的定义里，DID 等同于公私钥对，公私钥对就是身份。SBT 相当于把和公私钥绑定的行为形成一个映射关系。只要最终判定映射关系，即可限定不可转让。用户可以生成多个身份，每个身份都是一个公私钥对。任一公私钥对都可以绑定 SBT，可以定义为一个灵魂。</p>
+
+<p>魔兽世界里，一个玩家可以创建多个游戏角色，这个角色可以等同于链里面的一个 DID，只有完成特定任务玩家才能获取某个灵魂通证，即是通过 SBT 区分一个人是一个 trader（交易者） 还是 一个 builder（建造者）。Next.ID 认同的观点是一个 DID 可以有多个 soul，多个数字化身，每个数字化身绑上 SBT 后，即跟某个角色绑在一起。</p>
+
+<p>如何杜绝作假？不杜绝。养大批量的账号的成本很高，不需要特别杜绝。</p>
+
+<p>王建硕：理解了。其实 soul-bound token 更像 ID-bound token 或者 public-key bound token。跟灵魂、肉身、谁在使用没关系，它唯一绑定的是 ID，token 一旦发到 ID 上，就不可改变了。</p>
+
+<p><strong>DID 和 SBT 落地的过程中，遇到什么难题？你们在尝试用什么思路解决？</strong></p>
+
+<p>LXDAO Bruce：我们在做 Marry3，是帮助用户在 Web3 结婚的产品。已经有 56 对伴侣在上面结婚了。结婚证二者都有，是 SBT 且不可转让，也可以申请离婚，离婚后证书就会断掉。遇到的挑战是来自人们的质疑：比如如何跟链下的结婚证绑定在一起、怎么证明二者的结婚关系。我们不关心这个问题、也不关心背后是谁，更关注链上的两个地址，在虚拟世界中是我们所认为的灵魂。后期会新做项目来举办婚礼，吸引用户的朋友见证婚礼的举行，通过语音宣誓，见证人的公信力越高，越证明了这个 SBT 的价值，因为小号无法邀请到公信度高的人。不是所有人都能申请到一些东西、成本也有区别，维护 SBT 成本越大、SBT 价值越高。</p>
+
+<p>我们在做的 LXDAO 也希望能招募一些优质的社区成员，会有审核机制，需要提交申请、面试，确认参加者之前没有参与过，具备一定技能、技术，之后才会颁发 SBT，给 SBT 赋予了价值，证明成员的 builder 身份。</p>
+
+<p>灵魂与人的绑定，目前观察到两个产品，一个是 Binance 发的 BAB，Binance 可以中心化地管理用户的 KYC，能够获取用户信息，通过绑定到钱包地址，能知道该地址对应的账号，证明用户真人的属性。第二个是 BrightID，通过 Zoom 会议，绑定用户的人脸与地址，很多项目会使用 BrightID 的验证作为审核用户条件。</p>
+
+<p>SBT 研究员 夏禾：SBT 没有通用标准，暂时还处于社交、社会概念之下，社交需要人的互动，Web3 用户基数还较小，一是需要在技术上有共识，二是需要更多用户。</p>
+
+<p>王建硕：后期可以想象专门做指纹的哈希等方式，把人的肉身与链上的 ID 绑定，一旦这个关系建立，链上的事情解决起来会更轻松。现在遇到的问题是链上与链下的割裂，割裂的解决方案还非常有限。</p>
+
+<p><strong>对 DID、SBT 生态的寄语？如何让 Web3 对这两个领域产生重视、吸引更多的成员进来一起共建？</strong></p>
+
+<p>王建硕：期待概念清楚后，SBT 与 DID 能解决更多事。</p>
+
+<p>SBT 研究员 夏禾：希望更多 builder 加入进来，或者有一些“毁灭性”事件让人们意识到 SBT 必须接入。</p>
+
+<p>LXDAO Bruce：希望有更加实用的产品。现在协议过于底层，希望有更多应用，不管符合标准，先让大家看明白、理解。吸引用户上应该顺其自然，Vitalik 博客上已经告知了我们哪些地方可以深挖，LXDAO 已经在尝试构建。SBT 之类概念对于普通用户没有感知，除非能在日常中使用，才会有普及度。</p>
+
+<p>Next.ID 段少：Next.ID 在探索 AuthService 以及 OpenID，关注身份如何与其它 dApp 交互，探索如何验证，欢迎大家有兴趣一起 build。希望 AuthService 能媲美 Web2 体验，或者接近持平，用户的迁移自然而然就会发生。</p>
+
+<p>SBT 研究员 夏禾：希望更多 builder 加入进来，或者有一些“毁灭性”事件让人们意识到 SBT 必须接入。</p>
+
+<p>LXDAO Bruce：希望有更加实用的产品。现在协议过于底层，希望有更多应用，不管符合标准，先让大家看明白、理解。吸引用户上应该顺其自然，Vitalik 博客上已经告知了我们哪些地方可以深挖，LXDAO 已经在尝试构建。SBT 之类概念对于普通用户没有感知，除非能在日常中使用，才会有普及度。</p>
+
+<p>Next.ID 段少：Next.ID 在探索 AuthService 以及 OpenID，关注身份如何与其它 dApp 交互，探索如何验证，欢迎大家有兴趣一起 build。希望 AuthService 能媲美 Web2 体验，或者接近持平，用户的迁移自然而然就会发生。</p>
+
+<p><strong>嘉宾/项目信息</strong></p>
+
+<ul>
+  <li>王建硕（@jianshuo）：百姓网创始人、CEO。</li>
+  <li>HashKey Capital：HashKey Capital（@HashKey_Capital）是一家专注投资区块链技术和数字资产的机构资产管理公司。</li>
+  <li>夏禾（@0x30cF）：Crypto 研究员，关注 ZK（zero-knowledge）、L2（layer 2）、SBT、database，以及 account abstraction 等领域。</li>
+  <li>LXDAO：LXDAO（<a href="https://lxdao.io" title="https://lxdao.io">https://lxdao.io</a>）是一个以研发为重点的Web3 DAO，聚集建造者，以可持续的方式建设和维护Web3 项目，官网地址：。</li>
+  <li>Web3Go Labs：Web3GO Labs 是一个专注 Web3 的创新实验室。第一阶段，将在实验室中搭建一个专注 Web3 的孵化器，全力支持全球 Web3 华人创业者。</li>
+  <li>Next.ID：Next.ID 是世界上第一个为去中心化身份提供服务的协议（DIaaS），即将开启公开测试。它是一个去中心化的身份聚合协议，整合了所有 Web2 和 Web3 的数字身份，为开源开发者和项目提供全面的、可验证的身份数据库，以便于创新和开发 dApps。作为世界上第一个为去中心化身份提供服务的协议（Decentralized-Identity-As-A-Service, DIaaS），Next.ID 创建了一个身份基础设施，将用户的身份安全地聚合到 Avatars（即基于密码学生成的用户数字化身）。在 Web3 生态中，Next.ID 会成为各类去中心化社交协议和 dApp 的身份聚合关口。</li>
+</ul>
+
+
+<br />
+<br />
+<br />
+
+<h2>官方网站</h2>
+
+<p><a href="https://dimension.im">https://dimension.im</a></p>
+
+<h2>产品</h2>
+
+<p><a href="https://mask.io">https://mask.io</a></p>
+<p><a href="https://next.id">https://next.id</a></p>
+<p><a href="https://firefly.land">https://firefly.land</a></p>
+<p><a href="https://tessercube.com">https://tessercube.com</a></p>
+
+<h2>社交平台</h2>
+
+<h3>Mask Network</h3>
+
+<p>
+  <strong>Github</strong>
+  <a href="https://github.com/DimensionDev">https://github.com/DimensionDev</a>
+</p>
+<p>
+  <strong>Twitter</strong>
+  <a href="https://twitter.com/realMaskNetwork"
+    >https://twitter.com/realMaskNetwork</a
+  >
+</p>
+<p>
+  <strong>Facebook</strong>
+  <a href="https://www.facebook.com/masknetwork"
+    >https://www.facebook.com/masknetwork</a
+  >
+</p>
+<p>
+  <strong>Telegram (English)</strong>
+  <a href="https://t.me/maskbook_group">https://t.me/maskbook_group</a>
+</p>
+<p>
+  <strong>Telegram （中文）</strong>
+  <a href="https://t.me/masknetwork_cn">https://t.me/masknetwork_cn</a>
+</p>
+<p>
+  <strong>Discord</strong>
+  <a href="https://discord.com/invite/4SVXvj7"
+    >https://discord.com/invite/4SVXvj7</a
+  >
+</p>
+
+<h3 style="margin-top: 30px">Next.ID</h3>
+
+<p>
+  <strong>Github</strong>
+  <a href="https://github.com/nextdotid">https://github.com/nextdotid</a>
+</p>
+<p>
+  <strong>Discord</strong>
+  <a href="https://bit.ly/NextID_Discord_Official"
+    >https://bit.ly/NextID_Discord_Official</a
+  >
+</p>
+
+<h3 style="margin-top: 30px">Firefly</h3>
+
+<p>
+  <strong>Twitter</strong>
+  <a href="https://twitter.com/thefireflyapp"
+    >https://twitter.com/thefireflyapp</a
+  >
+</p>
+<p>
+  <strong>Telegram</strong>
+  <a href="https://t.me/+mz9T_4YOYhoyYmYx">https://t.me/+mz9T_4YOYhoyYmYx</a>
+</p>
+<p>
+  <strong>Discord</strong>
+  <a href="https://discord.com/invite/pufMbBGQZN"
+    >https://discord.com/invite/pufMbBGQZN</a
+  >
+</p>
+
+
+<h2>
+  分享
+</h2>
+<div class="sharing-icons">
+  
+  
+  <a href="https://twitter.com/intent/tweet?text=%E5%9B%9E%E9%A1%BE%EF%BD%9CDID+%E6%98%AF%E9%92%B1%E5%8C%85%E5%90%97%EF%BC%9F%E6%8E%A2%E8%AE%A8+SBT+%E6%8E%A5%E5%85%A5%E5%9C%BA%E6%99%AF%E3%80%81%E5%BC%80%E5%8F%91%E8%80%85%E5%92%8C%E7%94%A8%E6%88%B7%E4%B8%BA%E5%95%A5%E4%B9%B0%E8%B4%A6&amp;url=https://news.mask.io%2Fzh-Hans%2F2022%2F09%2F16%2Fdid-sbt" target="_blank">
+    <i class="fa fa-twitter" aria-hidden="true"></i>
+  </a>
+
+  
+  <a href="https://www.facebook.com/sharer.php?u=https://news.mask.io%2Fzh-Hans%2F2022%2F09%2F16%2Fdid-sbt" target="_blank">
+    <i class="fa fa-facebook" aria-hidden="true"></i>
+  </a>
+</div>
+
+<div class="related">
+  
+  
+
+  
+
+  
+
+  
+
+  <ul class="related-posts">
+    
+  </ul>
+</div>
+    </div>
+
+    <footer class="footer">
+  
+  <div class="post-date">
+    Mask | The Portal to the New, Open Internet.
+  </div>
+</footer>
+
+  </div>
+
+</body>
+</html>
