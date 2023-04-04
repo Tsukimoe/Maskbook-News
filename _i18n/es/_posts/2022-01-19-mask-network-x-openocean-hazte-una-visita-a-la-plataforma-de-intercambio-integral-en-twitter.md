@@ -10,8 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: 'Mask Network x OpenOcean: Hazte una Visita a la Plataforma de Intercambio
-  Integral en Twitter'
+title: 'Mask Network x OpenOcean: Hazte una Visita a la Plataforma de Intercambio Integral en Twitter'
 description: ''
 type: ''
 image: ''

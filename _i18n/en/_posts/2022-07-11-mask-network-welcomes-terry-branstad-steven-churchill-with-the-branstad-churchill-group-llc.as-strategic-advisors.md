@@ -10,8 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: Mask Network Welcomes Terry Branstad & Steven Churchill with the Branstad Churchill
-  Group, LLC. as Strategic Advisors
+title: Mask Network Welcomes Terry Branstad & Steven Churchill with the Branstad Churchill Group, LLC. as Strategic Advisors
 description: ''
 type: ''
 image: ''

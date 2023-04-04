@@ -10,8 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: 'PhantaBear × MaskBox: Para ser Amig@ de Estrella Asiática, Todo lo que Necesitas
-  es una Caja Sorpresa del Oso NFT'
+title: 'PhantaBear × MaskBox: Para ser Amig@ de Estrella Asiática, Todo lo que Necesitas es una Caja Sorpresa del Oso NFT'
 description: ''
 type: ''
 image: ''

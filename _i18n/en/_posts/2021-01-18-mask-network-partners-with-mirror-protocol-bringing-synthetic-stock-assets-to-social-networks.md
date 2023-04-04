@@ -8,8 +8,7 @@ tags: []
 ja: []
 zh-Hans: []
 zh-Hant: []
-title: Mask Network Partners with Mirror Protocol, Bringing Synthetic Stock Assets
-  to Social Networks
+title: Mask Network Partners with Mirror Protocol, Bringing Synthetic Stock Assets to Social Networks
 description: Bringing Synthetic Stock Assets to Social Network
 location: 'Shanghai '
 type: ''

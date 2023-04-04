@@ -8,8 +8,7 @@ ja: []
 ko: []
 zh-Hans: []
 zh-Hant: []
-title: Mask Network Partners with Protocol Lab on Integration of Filecoin Decentralized
-  Storage
+title: Mask Network Partners with Protocol Lab on Integration of Filecoin Decentralized Storage
 description: ''
 type: ''
 image: ''

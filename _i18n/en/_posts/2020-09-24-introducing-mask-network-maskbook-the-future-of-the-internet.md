@@ -12,8 +12,7 @@ title: Introducing Mask Network — the future of the Internet
 location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-63.png"
-description: In short, we want to bridge the New, Open Internet right on top of the
-  current one.
+description: In short, we want to bridge the New, Open Internet right on top of the current one.
 ko: ''
 
 ---

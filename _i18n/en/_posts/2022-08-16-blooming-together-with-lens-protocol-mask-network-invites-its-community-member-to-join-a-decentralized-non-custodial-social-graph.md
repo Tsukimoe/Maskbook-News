@@ -10,8 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: Blooming together with Lens Protocol, Mask Network invites its community member
-  to join a decentralized, non-custodial social graph
+title: Blooming together with Lens Protocol, Mask Network invites its community member to join a decentralized, non-custodial social graph
 description: ''
 type: ''
 image: ''

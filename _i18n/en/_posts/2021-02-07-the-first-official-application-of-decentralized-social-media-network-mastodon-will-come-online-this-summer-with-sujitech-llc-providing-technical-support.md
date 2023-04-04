@@ -8,8 +8,7 @@ tags: []
 ja: []
 zh-Hans: []
 zh-Hant: []
-title: The First Official Application of Decentralized Social Media Network Mastodon
-  will Come Online This Summer, with Sujitech, LLC Providing Technical Support.
+title: The First Official Application of Decentralized Social Media Network Mastodon will Come Online This Summer, with Sujitech, LLC Providing Technical Support.
 description: ''
 location: 'Shanghai '
 type: ''
