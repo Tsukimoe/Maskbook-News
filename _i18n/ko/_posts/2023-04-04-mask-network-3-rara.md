@@ -13,9 +13,11 @@ de: []
 title: Mask Network, 웹3 소셜 프로토콜에 대한 빅 베팅으로 RARA 인수
 description: ''
 type: ''
-image: "{{ site.baseurl_root }}/uploads/cjhmqa3j.png"
+image: ''
 
 ---
+![](https://miro.medium.com/v2/resize:fit:770/1*ZEDruBhIdqt6LX9lUfDCVw.png)
+
 Mask Network는 소셜 큐레이션 프로토콜인 RARA 팀을 인수했다. Mask의 Web3 소셜 빌더 생태계의 일환으로, RARA 팀은 앱 및 개발 도구를 계속해서 개발할 것이다.
 
 "라라!라!"라고 발음하는 RARA 프로토콜의 목표는 세상 모든 큐레이터들에게 한 목소리를 전달하는 것입니다. 이러한 개념은 일 년 전 Loud Paper에서 발표됐다. RARA의 창립자 Lawson Bae는 "우리는 사람들이 자신의 좋아하는 것과 관심사를 NFT와 마찬가지로 인터넷 어디에서나 쉽게 가져올 수 있도록 만들고 있습니다"라고 설명한다. "NFT를 위한 큐레이션 그래프를 공개하고 중앙화된 알고리즘에서 벗어나면서, 우리는 소셜 네트워크 빌더들에게 새로운 기회를 제공하고 모든 목소리가 자신의 커뮤니티를 찾을 수 있는 개인화된 인터넷을 만들어 나갈 것입니다."
