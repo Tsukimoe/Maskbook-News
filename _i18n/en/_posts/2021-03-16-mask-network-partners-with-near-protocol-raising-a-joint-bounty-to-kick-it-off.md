@@ -7,8 +7,7 @@ tags: []
 ja: []
 zh-Hans: []
 zh-Hant: []
-title: Mask Network Partners with NEAR Protocol, Raising a Joint Bounty to Kick it
-  off
+title: Mask Network Partners with NEAR Protocol, Raising a Joint Bounty to Kick it off
 description: ''
 type: ''
 image: "{{ site.baseurl_root }}/uploads/near.png"

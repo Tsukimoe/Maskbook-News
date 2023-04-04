@@ -11,8 +11,7 @@ zh-Hant: []
 es: []
 de: []
 title: Mask Network Integrates Next.ID As Its Decentralized Identity Provider
-description: Next.ID is Mask Network’s official decentralized identity infrastructure
-  of choice
+description: Next.ID is Mask Network’s official decentralized identity infrastructure of choice
 type: ''
 image: ''
 

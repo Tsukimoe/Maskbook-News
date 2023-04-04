@@ -7,8 +7,7 @@ tags: []
 ja: []
 zh-Hans: []
 zh-Hant: []
-title: Youth Leader Fund of CBCGDF with Mask Network will Auction Copper Prints of
-  Endangered Species On April 22
+title: Youth Leader Fund of CBCGDF with Mask Network will Auction Copper Prints of Endangered Species On April 22
 description: ''
 type: ''
 image: "{{ site.baseurl_root }}/uploads/nft-earth-day.png"

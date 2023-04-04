@@ -10,8 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: 'Ideamarket × Mask Network: ¡Anunciamos el Plan $IMO Airdrop de Ideamarket
-  con la Comunidad Mask!'
+title: 'Ideamarket × Mask Network: ¡Anunciamos el Plan $IMO Airdrop de Ideamarket con la Comunidad Mask!'
 description: ''
 type: ''
 image: ''

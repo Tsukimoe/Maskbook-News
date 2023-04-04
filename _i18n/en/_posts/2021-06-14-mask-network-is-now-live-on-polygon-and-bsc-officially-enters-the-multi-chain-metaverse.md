@@ -8,8 +8,7 @@ tags: []
 en: []
 ja: []
 zh-Hant: []
-title: Mask Network is Now Live on Polygon and BSC, Officially Enters the Multi-Chain
-  Metaverse
+title: Mask Network is Now Live on Polygon and BSC, Officially Enters the Multi-Chain Metaverse
 description: ''
 image: "{{ site.baseurl_root }}/uploads/1-56.png"
 ko: ''

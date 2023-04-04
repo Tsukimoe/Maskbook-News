@@ -10,8 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: 'Privacy is NOT DEAD in Web3.0 Socials: Mask Network and Mystiko.Network join
-  forces to make the Web 3.0 social life accessible, affordable and private'
+title: 'Privacy is NOT DEAD in Web3.0 Socials: Mask Network and Mystiko.Network join forces to make the Web 3.0 social life accessible, affordable and private'
 description: ''
 type: ''
 image: ''

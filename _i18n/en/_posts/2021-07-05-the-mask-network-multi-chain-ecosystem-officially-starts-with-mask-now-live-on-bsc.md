@@ -8,8 +8,7 @@ ja: []
 ko: []
 zh-Hans: []
 zh-Hant: []
-title: The Mask Network Multi-Chain Ecosystem Officially Starts, with $MASK Now Live
-  on BSC
+title: The Mask Network Multi-Chain Ecosystem Officially Starts, with $MASK Now Live on BSC
 description: ''
 type: ''
 image: ''

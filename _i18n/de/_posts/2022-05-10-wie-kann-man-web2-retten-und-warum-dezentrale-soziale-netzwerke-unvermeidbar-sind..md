@@ -10,8 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: 'Wie kann man Web2 retten? Und warum dezentrale soziale Netzwerke unvermeidbar
-  sind. '
+title: 'Wie kann man Web2 retten? Und warum dezentrale soziale Netzwerke unvermeidbar sind.'
 description: ''
 type: ''
 image: ''

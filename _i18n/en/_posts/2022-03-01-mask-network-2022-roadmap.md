@@ -11,8 +11,7 @@ zh-Hant: []
 es: []
 de: []
 title: 'Mask Network Roadmap 2022: Instagram Integration, New Launches & MaskDAO'
-description: Mask Network reveals the latest roadmap and unveils its plans to build
-  a true Web 3 social space.
+description: Mask Network reveals the latest roadmap and unveils its plans to build a true Web 3 social space.
 type: ''
 image: ''
 

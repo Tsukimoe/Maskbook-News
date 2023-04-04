@@ -11,8 +11,7 @@ zh-Hant: []
 title: Mask Network（Maskbook）の紹介 ― インターネットの未来
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210108162001.png"
-description: In short, we want to bridge the New, Open Internet right on top of the
-  current one.
+description: In short, we want to bridge the New, Open Internet right on top of the current one.
 location: ''
 
 ---

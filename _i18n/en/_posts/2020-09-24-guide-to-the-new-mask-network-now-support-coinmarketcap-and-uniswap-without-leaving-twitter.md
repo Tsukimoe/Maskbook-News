@@ -7,8 +7,7 @@ timezone: 8
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: Guide to the New Mask Network, now support CoinMarketCap and Uniswap without
-  Leaving Twitter!
+title: Guide to the New Mask Network, now support CoinMarketCap and Uniswap without Leaving Twitter!
 location: 'Shanghai '
 type: ''
 image: ''

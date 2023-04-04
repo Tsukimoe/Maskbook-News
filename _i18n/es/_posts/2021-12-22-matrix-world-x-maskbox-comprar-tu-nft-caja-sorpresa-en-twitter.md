@@ -10,8 +10,7 @@ zh-Hans: []
 zh-Hant: []
 es: []
 de: []
-title: 'Matrix World × MaskBox: Ya Puedes Comprar la Primera Caja Sorpresa de NFT
-  en Twitter'
+title: 'Matrix World × MaskBox: Ya Puedes Comprar la Primera Caja Sorpresa de NFT en Twitter'
 description: ''
 type: ''
 image: ''

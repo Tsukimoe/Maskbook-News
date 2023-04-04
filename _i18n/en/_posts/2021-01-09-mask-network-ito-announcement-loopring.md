@@ -12,10 +12,9 @@ title: 'Mask Network ITO Announcement: Loopring'
 location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-23.png"
-description: Since the announcement of the ITO feature, we have received numerous
-  inquiries and requests to join the first batch of Twitter offerings.
-
+description: Since the announcement of the ITO feature, we have received numerous inquiries and requests to join the first batch of Twitter offerings.
 ---
+
 Since the announcement of the ITO feature, we have received numerous inquiries and requests to join the first batch of Twitter offerings. After some careful consideration, we have decided to partner with Loopring for the first-ever Initial Twitter Offering! A few more projects are also waiting in the queue.
 
 ![]({{ site.baseurl_root }}/uploads/1-23.png)

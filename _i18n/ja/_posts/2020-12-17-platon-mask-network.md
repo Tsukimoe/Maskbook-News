@@ -11,10 +11,7 @@ zh-Hant: []
 title: PlatON と Mask Networkの戦略連携達成  プライバシー計算分野でのビジネス実現を進める
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210109211309.jpg"
-description: The cooperation between PlatON and Mask Network will endow the platforms
-  and products of both parties with more underlying innovation and commercial value
-  and will empower the development of the digital industry with blockchain and privacy
-  computing as the core engine.
+description: The cooperation between PlatON and Mask Network will endow the platforms and products of both parties with more underlying innovation and commercial value and will empower the development of the digital industry with blockchain and privacy computing as the core engine.
 
 ---
 ![]({{ site.baseurl_root }}/uploads/_20210109211309.jpg)

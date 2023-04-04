@@ -7,8 +7,7 @@ tags: []
 ja: []
 zh-Hans: []
 zh-Hant: []
-title: Mask Network has Received the Strategic Investment from Binance, Building a
-  Web 3.0 Multi-Chain Universe
+title: Mask Network has Received the Strategic Investment from Binance, Building a Web 3.0 Multi-Chain Universe
 description: ''
 type: ''
 image: "{{ site.baseurl_root }}/uploads/123-1.png"

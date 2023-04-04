@@ -7,8 +7,7 @@ tags: []
 ja: []
 zh-Hans: []
 zh-Hant: []
-title: "$MASK is Officially on Fiat on-ramp Aggregator Transak, Now Supporting Direct
-  Buying on Twitter"
+title: "$MASK is Officially on Fiat on-ramp Aggregator Transak, Now Supporting Direct Buying on Twitter"
 description: ''
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-44.png"
