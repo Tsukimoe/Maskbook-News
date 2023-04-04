@@ -35,17 +35,24 @@ function readPosts(locals, pathToFolder) {
             const content = readFileSync(resolve(pathToFolder, '_posts', y), 'utf-8')
             const materials = readMaterials(content)
 
+            const now = Date.now()
+
             return ({
                 locals,
                 date: materials.get('date'),
-                filename,
+                // filename,
                 title: cleanQuotes(materials.get('title')),
                 description: cleanQuotes(materials.get('description')),
                 location: cleanQuotes(materials.get('description')),
-                hero: cleanQuotes(materials.get('image')),
+                // hero: cleanQuotes(materials.get('image')),
+                created_at: now,
+                updated_at: now,
+                published_at: now,
+                created_by_id: 1,
+                updated_by_id: 1,
                 timezone: materials.get('timezone') ? Number.parseInt(materials.get('timezone'), 10) : undefined,
                 body: raedBody(content),
-                path: resolve(pathToFolder, '_posts', y),
+                // path: resolve(pathToFolder, '_posts', y),
             })
         })
 }
