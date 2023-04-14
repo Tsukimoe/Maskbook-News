@@ -26,28 +26,26 @@ function main() {
 
   posts.forEach((post) => {
     post.body = post.body.replace(
-      /\(\/uploads\/(.+?)\.(png|jpeg|jpg|gif)\)/g,
+      /\((?:https:\/\/news\.mask\.io)?\/uploads\/(.+?)\.(png|jpeg|jpg|gif|webp)\)/img,
       (matched, name, ext) => {
         const key = name
           .replace(/[-.,]/g, "_")
           .replace(/__/g, "_")
           .replace(/^_/, "")
           .replace(/微信截图_/, "")
-          .replace(/微信图片_/, "");
-          
+          .replace(/微信图片_/, "")
+
         if (!table[key]) {
-            console.log({
-                matched,
-                name,
-                ext,
-            })
-        //   console.log(`${name}: ${table[key]}`);
+            process.stderr.write(`Failed to locate for ${name}.${ext}.\n`)
+            return matched
         }
+
+        return `(${table[key]})`
       }
     );
   });
 
-  // process.stdout.write(JSON.stringify(posts, null, 4))
+  process.stdout.write(JSON.stringify(posts, null, 4))
 }
 
 main();
